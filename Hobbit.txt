@@ -1,21 +1,4 @@
-
 --- Página 1 ---
-
---- Página 2 ---
-Copyright
-Esta obra foi postada pela equipe Le Livros para proporcionar, de maneira
-totalmente gratuita, o benefício de sua leitura a àqueles que não podem comprá-
-la. Dessa forma, a venda desse eBook ou até mesmo a sua troca por qualquer
-contraprestação é totalmente condenável em qualquer circunstância.
-A generosidade e a humildade são marcas da distribuição, portanto distribua este
-livro livremente. Após sua leitura considere seriamente a possibilidade de
-adquirir o original, pois assim você estará incentivando o autor e à publicação de
-novas obras. Se gostou do nosso trabalho e quer encontrar outros títulos visite
-nosso site:
-Le Livros
-http://LeLivros.com
-
---- Página 3 ---
 Nota à edição brasileira
  
 ESTA nova tradução de O hobbit foi feita a partir da 4a. edição,
@@ -44,7 +27,7 @@ TORDO BATER E O SOL POENTE COM A ÚLTIMA LUZ DO DIA DE DURIN
 BRILHARÂ SOBRE A FECHADURA
 E em runas assumiriam a seguinte forma:
 
---- Página 4 ---
+--- Página 2 ---
 De maneira similar, o título da introdução, p. XIII, significa "The
 Hobbit, or There and Back Again", que, em português, corresponde a:
 O HOBBIT
@@ -53,7 +36,7 @@ LÁ E DE VOLTA OUTRA VEZ
 E em runas seria escrito da seguinte forma:
 O EDITOR
 
---- Página 5 ---
+--- Página 3 ---
 Ilustrações
  
 Mapa de Thror
@@ -81,7 +64,7 @@ Ocorre em um ou dois lugares mas é geralmente traduzida
 como goblin (ou hobgoblin no caso das espécies maiores). Orc é a forma hobbit
 do nome dado naquele tempo a essas criaturas e não tem nenhuma relação com
 
---- Página 6 ---
+--- Página 4 ---
 orc, ork (orca), que se aplicam a animais marinhos aparentados com o golfinho.
 O motivo para este uso é oferecido em O Senhor dos Anéis, III,
 p. 639.
@@ -108,12 +91,12 @@ apontando para esta e embaixo estava escrito:
 As duas últimas runas são as iniciais de Thror e Thrain. As
 runas-da-lua lidas por Elrond eram:
 
---- Página 7 ---
+--- Página 5 ---
 No Mapa, os pontos cardeais são indicados por runas, como
 era costume nos mapas dos anões, e, assim, lêem-se em sentido horário: Leste
 (E), Sul (S), Oeste (W), Norte (N).
 
---- Página 8 ---
+--- Página 6 ---
 CAPÍTULO I
 Uma festa inesperada
  
@@ -149,7 +132,7 @@ Ele pode ter perdido o respeito dos seus vizinhos, mas ganhou -
 bem, vocês vão ver se ele ganhou alguma coisa no final.
 A mãe desse nosso hobbit - o que é um hobbit ? Imagino que os
 
---- Página 9 ---
+--- Página 7 ---
 hobbits requeiram alguma descrição hoje em dia, uma vez que se tornaram
 raros e esquivos diante das Pessoas Grandes, como eles nos chamam. Eles são
 (ou eram) um povo pequeno, com cerca de metade da nossa altura, e menores
@@ -185,7 +168,7 @@ segunda edição de seu firme e tranqüilo pai, tivesse em sua constituição al
 característica meio estranha do lado dos Túk, algo que estivesse apenas
 esperando uma oportunidade para se manifestar.
 
---- Página 10 ---
+--- Página 8 ---
 A oportunidade não apareceu até que Bilbo estivesse adulto,
 com mais ou menos cinqüenta anos, vivendo na bonita toca de hobbit construída
 por seu pai, e que eu acabei de descrever para vocês. Na verdade, até que
@@ -221,7 +204,7 @@ agradável para fumar um cachimbo ao ar livre, além disso. Se você tiver um
 cachimbo com você, sente-se e tome um pouco do meu fumo! Não há pressa,
 temos o dia todo pela frente! - E então Bilbo se sentou numa cadeira à sua porta,
 
---- Página 11 ---
+--- Página 9 ---
 cruzou as pernas e soprou um belo anel de fumaça cinzento que se ergueu no ar
 sem se desmanchar e foi flutuando sobre a Colina.
 - Muito bonito! - disse Gandalf. - Mas eu não tenho tempo para
@@ -257,7 +240,7 @@ histórias maravilhosas nas festas, sobre dragões, orcs e gigantes e sobre
 resgates de princesas e sobre a sorte inesperada de filhos de viúvas? Não o
 homem que costumava fazer fogos de artifício especialmente maravilhosos! Eu
 
---- Página 12 ---
+--- Página 10 ---
 me lembro deles! O Velho Túk costumava soltá-los na véspera do Solstício de
 Verão. Esplêndido! Eles subiam como grandes lírios e bocas-de-leão e laburnos
 de fogo, ficavam no céu durante todo o entardecer! - Vocês já devem ter notado
@@ -293,7 +276,7 @@ Enquanto isso, Gandalf ainda estava parado do lado de fora da
 porta, rindo muito, mas sem fazer ruído. Depois de uns instantes ele se levantou,
 e com o cravo de seu cajado riscou um sinal estranho na bela porta verde da toca
 
---- Página 13 ---
+--- Página 11 ---
 do hobbit. Depois foi embora, mais ou menos no momento em que Bilbo estava
 terminando o seu segundo pedaço de bolo e começando a pensar que se havia
 safado muito bem das aventuras.
@@ -329,7 +312,7 @@ convidado.
 - Vejo que já começaram a chegar - disse ele quando viu
 pendurado o capuz verde de Dwalin. Pendurou o seu perto do outro, e: - Balin, às
 
---- Página 14 ---
+--- Página 12 ---
 suas ordens - disse, com a mão sobre o peito.
 - Obrigado! - disse Bilbo, ofegante. Não era a coisa certa para
 dizer, mas o já começaram a chegar o agitara muito. Ele gostava de visitas, mas
@@ -365,7 +348,7 @@ lembrando-se das boas maneiras desta vez.
 “Multidão!”, pensou o Sr. Bolseiro. “Isso não soa bem.
 Realmente preciso me sentar um pouco e colocar a cabeça n o lugar, e tomar
 
---- Página 15 ---
+--- Página 13 ---
 alguma coisa.” Ele só tinha tomado um gole - no canto, enquanto os quatro
 anões se sentavam em volta da mesa e conversavam sobre minas e ouro e
 problemas com os orcs e as depredações de dragões, e um monte de outras
@@ -401,7 +384,7 @@ desnorteado e desconcertado - era a mais estapafúrdia quarta-feira de que ele
 se lembrava. Abriu a porta com um solavanco e todos caíram para dentro, um em
 cima do outro. Mais anões, mais quatro! E Gandalf estava atrás, inclinando-se
 
---- Página 16 ---
+--- Página 14 ---
 sobre seu cajado e rindo. Tinha feito um estrago razoável na superfície da bela
 porta; a propósito, também tinha feito desaparecer o sinal secreto que deixara
 nela na manhã anterior.
@@ -437,7 +420,7 @@ para ele ouvir, enquanto o hobbit se esbaforia para as despensas. - E traga
 também a salada de galinha com picles.
 “Parece que ele sabe tanto sobre o conteúdo das minhas
 
---- Página 17 ---
+--- Página 15 ---
 despensas quanto eu”, pensou o Sr. Bolseiro, que estava se sentindo
 positivamente aturdido e começava a se perguntar se a mais infame das
 aventuras não tinha vindo parar exatamente dentro de sua casa. Na hora em que
@@ -473,7 +456,7 @@ Facas cegas, colheres douradas!
 É isso que em Bilbo causa gemidos -
 Garrafas em cacos e rolhas queimadas!
 
---- Página 18 ---
+--- Página 16 ---
 Pise em gordura, corte a toalha!
 Sobre o tapete jogue os ossinhos!
 O leite entornado no chão se coalha!
@@ -509,7 +492,7 @@ Bombur trouxe um tambor do corredor; Bifur e Bofur saíram também, e voltaram
 com clarinetas que haviam deixado entre as bengalas. Dwalin e Balin disseram:
 Com licença, deixei a minha na varanda!”. Traga a minha também!”, disse
 
---- Página 19 ---
+--- Página 17 ---
 Thorin. Voltaram com violas tão grandes como eles próprios e com a harpa de
 Thorin embrulhada num pano verde. Era uma bonita harpa dourada, e quando
 Thorin a dedilhou a música irrompeu imediatamente, tão repentina e doce que
@@ -545,7 +528,7 @@ Para além das montanhas nebulosas frias,
 Adentrando cavernas calabouços
 Perdidos
 
---- Página 20 ---
+--- Página 18 ---
 Devemos partir antes de o sol surgir
 Buscando tesouros há muito esquecidos.
 Para seu uso taças foram talhadas
@@ -581,7 +564,7 @@ acendendo uma fogueira - e ele pensou em dragões saqueadores alojando-se
 em sua calma Colina e transformando-a toda em chamas. Sentiu um tremor e
 muito rapidamente voltou a ser o Sr. Bolseiro de Bolsão, Sob-a-Colina,
 
---- Página 21 ---
+--- Página 19 ---
 novamente.
 Levantou-se tremendo. Estava muito pouco disposto a ir buscar
 uma lamparina, e muito disposto a fingir que ia fazê-lo e se esconder atrás dos
@@ -617,7 +600,7 @@ nunca voltemos. Este é um momento solene. Nosso objetivo é, pelo que entendo,
 bem conhecido por todos. Para o estimável Sr. Bolseiro, e talvez para um ou dois
 dos anões mais jovens (acho que estou certo em citar Kili e Fili, por exemplo), a
 
---- Página 22 ---
+--- Página 20 ---
 situação exata no momento parece exigir uma pequena e breve explicação...
 Este era o estilo de Thorin. Ele era um anão importante. Se lhe
 fosse permitido, provavelmente continuaria assim até que estivesse sem fôlego,
@@ -653,7 +636,7 @@ Gloin falando: - “Hunf!” - ou algum resmungo mais ou menos assim.
 falando da ferocidade desse hobbit, mas um acesso desses numa hora de
 agitação seria o suficiente para acordar o dragão e todos os seus parentes, e
 
---- Página 23 ---
+--- Página 21 ---
 matar a todos nós. Eu acho que o acesso pareceu mais de medo do que de
 agitação! Na verdade, se não fosse pelo sinal na porta, eu teria a certeza de que
 tinha chegado na casa errada. Assim que bati os olhos nesse sujeitinho bufando
@@ -689,7 +672,7 @@ feira, na hora do chá.
 coloquei.
 Por razões muito boas. Vocês me pediram para encontrar o
 
---- Página 24 ---
+--- Página 22 ---
 décimo quarto homem para a sua expedição, e eu escolhi o Sr. Bolseiro. Se
 alguém disser que escolhi o homem errado, ou a casa errada, podem ficar em
 treze e com todo o azar que quiserem, ou então vão voltar à extração de carvão.
@@ -720,12 +703,12 @@ saindo das outras runas? Isso marca uma passagem secreta para os Salões
 Inferiores. (Olhem o mapa no início deste livro e lá verão as runas em vermelho.)
  
 
---- Página 25 ---
+--- Página 23 ---
  
 - Pode ter sido secreta uma vez - disse Thorin -, mas como
 podemos saber se ainda é secreta? O Velho Smaug viveu lá tempo suficiente
 
---- Página 26 ---
+--- Página 24 ---
 para descobrir qualquer coisa que se possa conhecer sobre essas cavernas.
 - Pode ser, mas ele não tem podido usá-la por muitos e muitos
 anos.
@@ -761,7 +744,7 @@ Essa noticia melhora muito as coisas. Até agora não tínhamos
 uma idéia clara do que fazer. Estávamos pensando em ir para o leste, com o
 maior cuidado e silêncio possível, até o Lago Comprido. Depois disso o
 
---- Página 27 ---
+--- Página 25 ---
 problema iria começar...
 - Muito antes disso, se é que sei alguma coisa sobre as
 estradas que levam para o leste - interrompeu Gandalf.
@@ -797,7 +780,7 @@ pessoas que tentavam tomar dinheiro emprestado dele), e fazendo de tudo para
 parecer sábio e prudente e profissional e à altura das recomendações de
 Gandalf.
 
---- Página 28 ---
+--- Página 26 ---
 - Eu também gostaria de saber sobre os riscos, despesas
 extras, o tempo necessário e a remuneração, e tudo o mais. - Com isso ele
 queria dizer: “O que vou ganhar com isso?” e “Vou voltar vivo?”
@@ -833,7 +816,7 @@ uma escama solta de suas armaduras. Havia muitos dragões no norte naquela
 época, e o ouro estava provavelmente se tornando raro por lá, com os anões indo
 para o sul ou sendo mortos, e com todo o tipo de ermo e destruição geral que os
 
---- Página 29 ---
+--- Página 27 ---
 dragões provocam, indo de mal a pior.
 Havia um dragão especialmente ganancioso, forte e mau,
 chamado Smaug. Um dia ele alçou vôo e veio para o sul. O primeiro sinal dele
@@ -869,7 +852,7 @@ boca e que no momento certo eu saberia. Depois disso fomos embora, e tivemos
 de aprender a ganhar nossas vidas da melhor maneira possível por esse mundo
 afora, muitas vezes tendo de nos rebaixar e fazer o trabalho de ferreiros e até de
 
---- Página 30 ---
+--- Página 28 ---
 mineiros de carvão. Mas nunca nos esquecemos de nosso tesouro roubado. E,
 mesmo agora, quando admito que temos algumas reservas e não estamos tão
 pobres - nesse momento Thorin passou a mão sobre a corrente de ouro em seu
@@ -905,7 +888,7 @@ masmorras do Necromante.
 arrepio, e todos os anões tremeram.
 - Isso não importa para você. Eu estava descobrindo coisas,
 
---- Página 31 ---
+--- Página 29 ---
 como sempre, e era um negócio perigoso e desagradável. Mesmo eu, Gandalf,
 escapei por pouco. Tentei salvar o seu pai, mas era tarde demais. Ele estava fora
 de si e tinha se esquecido de quase tudo, a não ser do mapa e da chave.
@@ -941,7 +924,7 @@ ir para sua caminha muito cansado e não muito feliz. Uma coisa que decidiu foi
 não acordar muito cedo para preparar o maldito desjejum de todos os outros. A
 Túkidade estava desaparecendo, e ele agora não tinha muita certeza de que
 
---- Página 32 ---
+--- Página 30 ---
 partiria em alguma viagem pela manhã.
 Deitado em sua cama, podia ouvir Thorin ainda cantando
 baixinho no melhor quarto, ao lado do dele.
@@ -955,7 +938,7 @@ Bilbo caiu no sono com aquilo em seus ouvidos, o que lhe
 proporcionou sonhos muito desagradáveis. Já passava muito do nascer do dia
 quando acordou.
 
---- Página 33 ---
+--- Página 31 ---
 CAPÍTULO II
 Carneiro assado
  
@@ -991,7 +974,7 @@ lavando a louça de quatorze pessoas!
 isto bem debaixo do relógio - disse Gandalf, entregando a Bilbo um bilhete
 (obviamente escrito em seu próprio papel de anotações).
 
---- Página 34 ---
+--- Página 32 ---
 Foi isto o que leu:
 “Thorin e Companhia para o Ladrão Bilbo, saudações! Pela sua
 hospitalidade, nossos mais sinceros agradecimentos, e pela sua oferta de ajuda
@@ -1032,7 +1015,7 @@ cada pônei vinham todos os tipos de bagagens, pacotes, embrulhos e
 parafernálias. Havia um pônei muito pequeno, aparentemente destinado a Bilbo.
 - Subam, e vamos indo! - disse Thorin.
 
---- Página 35 ---
+--- Página 33 ---
 - Sinto imensamente - disse Bilbo -, mas vim sem o meu chapéu,
 e deixei para trás meu lenço e não trago nenhum dinheiro. Para ser preciso, só vi
 o seu bilhete às 1Oh45.
@@ -1068,7 +1051,7 @@ ruim. Durante a maior parte do tempo, estivera tão bom como podia estar em
 maio, mesmo nas histórias alegres, mas agora estava frio e úmido. Nas Terras
 Solitárias eram obrigados a acampar, quando podiam, mas pelo menos não
 
---- Página 36 ---
+--- Página 34 ---
 chovera.
 - E pensar que logo estaremos em junho - resmungou Bilbo,
 chapinhando atrás dos outros numa trilha muito lamacenta. Já passara da hora
@@ -1104,7 +1087,7 @@ irritante. E também o azar parecia ter contaminado o fogo. Os anões conseguem
 fazer fogo em praticamente qualquer lugar, usando praticamente qualquer
 coisa, com ou sem vento; mas naquela noite não conseguiram, nem mesmo Oin e
 
---- Página 37 ---
+--- Página 35 ---
 Gloin, que eram muito bons nisso.
 Então um dos pôneis se assustou por nada e disparou. Entrou
 no rio antes que pudessem detê-lo, e, antes que pudessem retirá-lo da água, Fili
@@ -1146,7 +1129,7 @@ adequada, que pudesse levar a uma casa ou fazenda; e por mais que tentassem
 evitar houve muito farfalhar, estalar e ranger (e também resmungar e praguejar)
 enquanto avançavam por entre as árvores naquela escuridão de breu.
 
---- Página 38 ---
+--- Página 36 ---
 De repente, não muito distante, a luz vermelha brilhou
 intensamente através dos troncos das árvores.
 - Agora é a vez do ladrão - disseram eles, referindo-se a Bilbo.
@@ -1182,7 +1165,7 @@ gente pra este lugar, não consigo imaginar. E a bebida está acabando, o que é
 pior - disse ele, batendo no cotovelo de William, que estava dando uma golada
 em sua caneca.
 
---- Página 39 ---
+--- Página 37 ---
 William engasgou. - Cale a boca! - disse ele, assim que
 conseguiu.
 - “Você não acha que o pessoal vai ficar aqui parado esperando
@@ -1218,7 +1201,7 @@ E foi! Bolsas de trolls são endiabradas, e esta não era exceção.
 - Ei, quem é você? - guinchou ela ao sair do bolso; William virou-se
 imediatamente e agarrou Bilbo pelo pescoço, antes que este pudesse se
 
---- Página 40 ---
+--- Página 38 ---
 esconder atrás da árvore.
 - Caramba, Bert! Olha o que eu apanhei! - disse William.
 - O que é? - perguntaram os outros, aproximando-se.
@@ -1254,7 +1237,7 @@ poder mais e tomado um monte de cerveja. - Pobre coitado! Deixe ele ir!
 nenhum - disse Bert. - Não quero que me cortem a garganta enquanto durmo!
 Segure os pés dele no fogo, até que fale!
 
---- Página 41 ---
+--- Página 39 ---
 - Não vou permitir - disse William. - De qualquer jeito, quem
 pegou ele fui eu.
 - Você é um grande idiota , William - disse Bert - como eu já
@@ -1290,7 +1273,7 @@ ladrhobbit, mas um monte destes anões aqui. Era disso que ele estava falando!
 - Acho que tem razão - disse Bert - e é melhor a gente sair da
 luz.
 
---- Página 42 ---
+--- Página 40 ---
 E assim fizeram. Segurando nas mãos sacos que usavam para
 carregar carne de carneiro e outras pilhagens, esperaram nas sombras. Assim
 que cada anão se aproximava e olhava surpreso para a fogueira, para as
@@ -1326,7 +1309,7 @@ furiosos (e dois com queimaduras e ferimentos memoráveis) sentados ao lado
 deles, discutindo se deviam assá-los devagar, fazer picadinho e cozinhá-los, ou
 ainda sentar em cima deles, um por um, e esmagá-los e transformá-los em
 
---- Página 43 ---
+--- Página 41 ---
 geléia; e Bilbo em cima de um arbusto, com as roupas e a pele rasgadas, sem
 ousar se mexer, com medo de que pudessem ouvi-lo.
 Foi exatamente nessa hora que Gandalf voltou. Mas ninguém o
@@ -1362,7 +1345,7 @@ sido machucado por Thorin. Pensou que Tom estivesse falando.
 sentar no último, sente. Qual é?
 - Aquele com as meias amarelas - disse Bert.
 
---- Página 44 ---
+--- Página 42 ---
 - Besteira, aquele com as meias cinzentas disse uma voz
 semelhante à de William.
 - Eu tenho certeza de que eram amarelas - disse Bert.
@@ -1385,13 +1368,13 @@ debaixo da terra antes que amanheça, caso contrário retornam ao material das
 montanhas, de que são feitos, e nunca mais conseguem se mexer. Foi isso o que
 aconteceu com Bert, Tom e William.
 
---- Página 45 ---
+--- Página 43 ---
 - Excelente! - disse Gandalf, enquanto saía de trás de uma
 árvore e ajudava Bilbo a descer de um espinheiro. Então Bilbo entendeu. Fora a
 voz do mago que mantivera os trolls discutindo e brigando, até que a luz chegou
 e acabou com eles.
 
---- Página 46 ---
+--- Página 44 ---
 O próximo passo foi desamarrar os sacos e libertar os anões.
 Estavam quase sufocados, e muito furiosos: não tinham gostado
 nada de ficar ali jogados, ouvindo os trolls fazendo planos de assá-los e
@@ -1427,7 +1410,7 @@ particularmente a atenção deles, por causa de suas belas bainhas e punhos
 adornados com pedras preciosas.
 Gandalf e Thorin ficaram com elas; Bilbo pegou uma faca com
 
---- Página 47 ---
+--- Página 45 ---
 bainha de couro. Para um troll, não passaria de uma faca de bolso, mas para o
 hobbit era tão boa como uma pequena espada.
 - 
@@ -1471,7 +1454,7 @@ encontrei alguns amigos de Valfenda.
 - Não interrompa! - disse Gandalf. - Você chegará lá daqui a
 alguns dias, se tivermos sorte, e então descobrirá tudo sobre Valfenda. Como
 
---- Página 48 ---
+--- Página 46 ---
 estava dizendo, eu encontrei duas pessoas do povo de Elrond. Estavam correndo
 de medo dos trolls. Foram eles que me disseram que três deles tinham descido
 das montanhas e se fixado na floresta não muito longe da estrada: tinham
@@ -1482,7 +1465,7 @@ sabem. Por favor, sejam mais cautelosos da próxima vez, ou nunca chegaremos
 a lugar nenhum!
 - Obrigado - disse Thorin.
 
---- Página 49 ---
+--- Página 47 ---
 CAPÍTULO III
 Um breve descanso
  
@@ -1518,7 +1501,7 @@ necessário chegar às Montanhas Sombrias pela trilha certa, caso contrário
 vocês vão se perder lá, e terão de voltar e começar tudo de novo (se é que
 conseguirão voltar).
 
---- Página 50 ---
+--- Página 48 ---
 Perguntaram-lhe para onde se dirigia, e ele respondeu:
 - Vocês chegaram ao limite do Ermo, como alguns de vocês
 devem saber. Escondido em algum lugar à nossa frente está o belo vale de
@@ -1554,7 +1537,7 @@ enquanto procurava as pedras, e os outros o seguiam, mas não pareciam estar
 mais perto de seu destino quando começou a escurecer. A hora do chá já
 passara havia muito, e tudo indicava que logo aconteceria o mesmo com a hora
 
---- Página 51 ---
+--- Página 49 ---
 da ceia. Mariposas voejavam ao redor, e a luz ficou muito fraca, pois a lua ainda
 não havia nascido. O pônei de Bilbo começou a tropeçar em pedras e raízes.
 Chegaram tão de repente à borda de uma descida íngreme que o cavalo de
@@ -1590,7 +1573,7 @@ E as tortas já se assando!
 Ei! TriHiHiH esta
 O vale está em festa! Ha! Ha!
 
---- Página 52 ---
+--- Página 50 ---
 Ei! Aonde você está indo
 As barbas sacudindo?
 Ninguém está sabendo
@@ -1626,7 +1609,7 @@ meio das árvores e fez uma reverência para Gandalf e Thorin.
 - Bem-vindos ao vale! - disse ele.
 - Obrigado! - disse Thorin, meio ríspido; Gandalf, porém, já
 
---- Página 53 ---
+--- Página 51 ---
 tinha descido do cavalo e estava entre os elfos, conversando alegremente.
 - Vocês se desviaram um pouco do caminho - disse o elfo -, isto
 é, se estão indo para a única trilha que atravessa o rio e conduz até a casa lá
@@ -1662,7 +1645,7 @@ vinha por último. - Os vales têm ouvidos, e alguns elfos têm línguas soltas
 demais. Boa noite!
 Assim, finalmente, chegaram à Última Casa Amiga e
 
---- Página 54 ---
+--- Página 52 ---
 encontraram suas portas abertas.
 É estranho, mas as coisas boas e os dias agradáveis são
 narrados depressa, e não há muito que ouvir sobre eles, enquanto as coisas
@@ -1680,14 +1663,14 @@ ancestrais tanto elfos como heróis do norte, e Elrond, o dono da casa, era o se
 chefe.
  
 
---- Página 55 ---
+--- Página 53 ---
  
 Era nobre e tinha o rosto belo de um senhor élfico, era forte
 como um guerreiro, sábio como um mago, venerável como um rei dos anões,
 generoso como o verão. Ele aparece em muitas histórias, mas seu papel na
 história da grande aventura de Bilbo é pequeno, embora seja importante, como
 
---- Página 56 ---
+--- Página 54 ---
 vocês vão ver, se conseguirmos chegar ao fim dela. Sua casa era perfeita, para
 quem gostasse de comer, dormir, trabalhar, contar histórias, cantar ou apenas
 de ficar sentado pensando, ou ainda de uma mistura agradável de tudo isso.
@@ -1723,7 +1706,7 @@ com todo respeito - disse ele. - Que ela logo possa fender orcs outra vez.
 - Um desejo que provavelmente será concedido em breve nas
 montanhas! - disse Elrond. - Mas mostre-me o seu mapa! Ele pegou o mapa,
 
---- Página 57 ---
+--- Página 55 ---
 examinou-o por um longo tempo e depois balançou a cabeça; pois, se não
 aprovava totalmente os anões e o amor que sentiam pelo ouro, odiava dragões e
 sua maldade cruel, e se entristecia em lembrar a ruína da cidade de Vale e seus
@@ -1759,7 +1742,7 @@ herdeiro.
 como todos devem saber, o primeiro dia da última lua do outono, no limiar do
 inverno. Ainda o chamamos Dia de Durin, quando a última lua do outono e o sol
 
---- Página 58 ---
+--- Página 56 ---
 aparecem juntos no céu. Mas isso não ajudará muito, receio eu, pois está além
 de nossas habilidades saber quando isso acontecerá de novo.
 - É o que veremos - disse Gandalf. - Ainda há mais alguma
@@ -1773,7 +1756,7 @@ dançando na água. Eles partiram em meio a canções de despedida e boa viagem,
 com os corações prontos para mais aventuras, e sabendo qual estrada deviam
 seguir nas Montanhas Sombrias até as terras além.
 
---- Página 59 ---
+--- Página 57 ---
 CAPÍTULO IV
 Montanha acima, montanha adentro
  
@@ -1809,7 +1792,7 @@ Solitária talvez na próxima lua, que era a primeira do outono - “e talvez se
 de Durin”, disseram eles. Apenas Gandalf sacudira a cabeça sem dizer nada.
 Nenhum anão passava por aquele caminho havia muitos anos,
 
---- Página 60 ---
+--- Página 58 ---
 mas Gandalf sim, e ele sabia em que extensão o mal e o perigo haviam crescido
 e prosperado no Ermo desde que os dragões tinham expulsado os homens das
 terras e os orcs, se espalhado em segredo, depois da batalha das Minas de
@@ -1831,13 +1814,13 @@ partem o ar e vão ecoando e invadindo cada caverna e cada gruta, e a escuridão
 se enche de um ruído esmagador e de clarões inesperados.
  
 
---- Página 61 ---
+--- Página 59 ---
  
 Bilbo nunca vira ou imaginara qualquer coisa semelhante.
 Estavam lá em cima, num lugar estreito, um terrível precipício sobre um vale
 escuro bem ao lado. Estavam abrigados sob uma pedra saliente onde pretendiam
 
---- Página 62 ---
+--- Página 60 ---
 passar a noite, e ele estava deitado debaixo de um cobertor, tremendo da cabeça
 aos pés. Quando espiava os clarões dos relâmpagos, via os gigantes de pedra
 do outro lado do vale, lançando pedras uns sobre os outros, como num jogo,
@@ -1873,7 +1856,7 @@ desocupadas.
 que os dois não podiam ter gasto muito tempo com isso; tinham voltado depressa
 demais. - A caverna não e muito grande nem muito profunda.
 
---- Página 63 ---
+--- Página 61 ---
 Este, sem dúvida, é o perigo das cavernas: às vezes, não se
 sabe a profundidade delas, ou onde um corredor pode levar, ou o que está
 esperando lá dentro. Mas naquele momento a notícia de Fili e Kili parecia
@@ -1909,7 +1892,7 @@ conseguiu dormir por um bom tempo e quando dormiu teve sonhos terríveis.
 Sonhou que uma fenda na parede no fundo da caverna ficava cada vez maior,
 cada vez mais larga, e ele sentia muito medo mas não conseguia gritar nem
 
---- Página 64 ---
+--- Página 62 ---
 fazer nada, exceto ficar deitado olhando. Depois sonhou que o chão da caverna
 estava cedendo e ele estava escorregando - começando a cair, cair, sabe lá para
 onde.
@@ -1945,7 +1928,7 @@ chatos e sacudindo os prisioneiros.
 Bate! Rebate! É opaco o buraco!
 Agarra, petisca! Prende, belisca!
 
---- Página 65 ---
+--- Página 63 ---
 Descendo, descendo à cidade dos orcs
 Se vai, meu rapaz!
 Quebra, requebra! Esmigalha, estraçalha!
@@ -1981,7 +1964,7 @@ prisioneiros só pensavam em si mesmos. Os orcs acorrentaram-lhes as mãos
 por trás, prenderam todos juntos numa enfiada e arrastaram-nos até a outra
 extremidade da caverna, com o pequeno Bilbo a reboque no fim da linha.
 
---- Página 66 ---
+--- Página 64 ---
 Lá nas sombras, numa pedra grande e plana, estava sentado um
 tremendo orc com uma cabeça enorme, e orcs armados postavam-se ao redor,
 carregando os machados e as espadas tortas que eles usam. Ora, os orcs são
@@ -2017,7 +2000,7 @@ Thorin.
 secretos de meu povo, aposto! Ladrões, eu não ficaria surpreso em saber!
 Assassinos e amigos de Elfos, é bem capaz! Vamos! O que tem a dizer?
 
---- Página 67 ---
+--- Página 65 ---
 - Thorin, o anão, às suas ordens! - respondeu ele. Era apenas
 polidez sem significado. - Das coisas que suspeita ou imagina não tínhamos a
 menor idéia. Nós nos abrigamos da tempestade no que parecia ser uma caverna
@@ -2053,7 +2036,7 @@ Odiavam-na, e odiavam mais ainda qualquer um que a carregasse.
 buracos escuros cheios de cobras e que nunca mais vejam a luz outra vez! -
 Estava tomado de tal fúria que saltou de seu assento e partiu para cima de Thorin
 
---- Página 68 ---
+--- Página 66 ---
 com a boca aberta.
 Naquele exato momento, todas as luzes da caverna se
 apagaram, e a grande fogueira se extinguiu, puft, em uma nuvem de fumaça azul
@@ -2089,7 +2072,7 @@ chegado até lá. O mago sacou a espada de novo e mais uma vez ela brilhou no
 escuro. A espada queimava com uma fúria que a fazia brilhar quando havia orcs
 por perto; agora brilhava como uma chama azul, pelo prazer de ter mata do o
 
---- Página 69 ---
+--- Página 67 ---
 grande senhor da caverna. Não foi problema nenhum cortar as correntes dos
 orcs e libertar todos os prisioneiros o mais rápido possível. O nome da espada
 era Glamdring, Martelo do Inimigo, se vocês se lembram. Os orcs chamavam-na
@@ -2125,7 +2108,7 @@ Nesse momento, Gandalf ficou para trás, e Thorin com ele.
 Fizeram uma curva fechada. - Meia-volta! - gritou ele. - Saque a espada, Thorin!
 Não havia mais nada a fazer, e os orcs não gostaram. Vinham correndo na curva,
 
---- Página 70 ---
+--- Página 68 ---
 aos berros, e encontraram Fende-Orc e Martelo do Inimigo brilhando frias e
 claras bem diante de seus olhos atônitos. Os que vinham na frente deixaram cair
 as tochas e soltaram um grito antes de serem mortos. Os que vinham logo
@@ -2147,7 +2130,7 @@ De repente, Dori, agora no fim da fila e carregando Bilbo, foi
 agarrado por trás no escuro. Gritou e caiu, e o hobbit rolou de seus ombros para
 dentro da escuridão, bateu a cabeça numa pedra e não se lembrou de mais nada.
 
---- Página 71 ---
+--- Página 69 ---
 CAPÍTULO V
 Adivinhas no escuro
  
@@ -2183,7 +2166,7 @@ se lá o que fósforos acesos e o cheiro do fumo teriam trazido dos buracos
 escuros daquele lugar horrível. Mesmo assim, naquela hora sentiu-se
 aniquilado. Mas, enquanto tateava em todos os bolsos e apalpava-se de cima a
 
---- Página 72 ---
+--- Página 70 ---
 baixo em busca dos fósforos, sua mão acabou tocando o punho da pequena
 espada - o pequeno punhal que conseguira dos trolls e do qual se esquecera
 completamente; por sorte, os orcs também não haviam percebido a arma já que
@@ -2219,7 +2202,7 @@ que ele percebia à Luz débil da espada ou tocando a parede com as mãos. Bilbo
 não lhes dava atenção, exceto para passar correndo por elas, com medo de que
 dali saíssem orcs ou seres sombrios semi-imaginados.
 
---- Página 73 ---
+--- Página 71 ---
 Foi avançando, sempre em frente, descendo e descendo, e ainda
 assim não ouvia som algum, a não ser, de vez em quando, asas de morcego, o
 que a principio o assustara, mas que acabou por se tornar muito freqüente para
@@ -2255,7 +2238,7 @@ impelia o barco com os pés grandes pendendo das bordas, mas nunca erguia
 uma onda na água.
 Não ele. Olhos pálidos feito lamparinas, ele procurava peixes
 
---- Página 74 ---
+--- Página 72 ---
 cegos, que agarrava com os dedos longos num piscar de olhos. Gostava
 também de carne. Gostava de orcs, quando conseguia apanhá-los, mas tomava
 cuidado para que nunca o descobrissem.
@@ -2291,7 +2274,7 @@ curioso; caso contrário, teria agarrado primeiro e sussurrado depois.
 sei onde estou; e não quero saber, se puder sair daqui.
 - O que ele tem nass mãoss? - perguntou Gollum, olhando a
 
---- Página 75 ---
+--- Página 73 ---
 espada, da qual não gostou muito.
 - Uma espada, uma lâmina que vem de Gondolin!
 - Sssss - disse Gollum, ficando muito polido. - Você pode sentar
@@ -2327,7 +2310,7 @@ ser devorado.
  
 Trinta cavalos na colina encarnada,
 
---- Página 76 ---
+--- Página 74 ---
 Primeiro cerceiam,
 Depois pisoteiam,
 Depois não fazem nada.
@@ -2363,7 +2346,7 @@ quando Bilbo começava a alimentar esperanças de que o patife não conseguiria
 responder, Gollum trouxe memórias de muitas eras passadas, de quando vivia
 com a avó numa toca na margem de um rio. - Sss, sss, meu preciosso - disse
 
---- Página 77 ---
+--- Página 75 ---
 ele. - Sol sobre as margaridas, é essa a resposta, é sim.
 Mas aquele tipo de adivinhas comuns, de cima da terra, estavam
 começando a cansá-lo. Além disso, faziam-no lembrar de tempos em que era
@@ -2399,7 +2382,7 @@ adivinhou?
 Mas, de repente, Gollum lembrou-se de quando roubava ninhos,
 muito tempo atrás, é sentava-se à margem do rio, ensinando a avó, ensinando a
 
---- Página 78 ---
+--- Página 76 ---
 avó a chupar.
 - Ovosos! - chiou ele. - Ovosos, isso mesmo! - Então ele
 perguntou
@@ -2435,7 +2418,7 @@ pensar.
  
 Sem-pernas ficou sobre uma perna,
 
---- Página 79 ---
+--- Página 77 ---
 duas-pernas sentou perto sobre três-pernas,
 quatro-pernas conseguiu alguma coisa.
  
@@ -2471,7 +2454,7 @@ Gollum ficou mais uma vez desapontado; e agora estava ficando
 furioso, além de cansado do jogo. Aquilo o deixara realmente muito faminto.
 Desta vez não voltou para o barco. Sentou-se no escuro perto de Bilbo. Isso fez
 
---- Página 80 ---
+--- Página 78 ---
 com que o hobbit ficasse terrivelmente incomodado.
 - Ele tem que fazer uma pergunta pra nóss, meu preciosso, é,
 sssim, sssim. Sssó mais uma pergunta para adivinhar, é, sssim - disse Gollum.
@@ -2507,7 +2490,7 @@ outras pessoas levavam nos bolsos.
 Agora Gollum estava num estado muito pior do que quando
 Bilbo lhe propusera a pergunta do ovo. Chiava, resmungava e balançava o corpo
 
---- Página 81 ---
+--- Página 79 ---
 para a frente e para trás, batia os pés no chão, contorcendo-se e entortando-se
 todo; mas, ainda assim, não se atrevia a desperdiçar sua última chance.
 - Vamos! - disse Bilbo. - Estou esperando! - Tentou parecer
@@ -2543,7 +2526,7 @@ que Gollum ia embora. Achava que ele estava apenas dando uma desculpa, e
 que não iria voltar. De que estaria Gollum falando? Que coisa útil poderia ele
 guardar no lago escuro? Mas Bilbo estava errado. Gollum tinha a intenção de
 
---- Página 82 ---
+--- Página 80 ---
 voltar. Agora estava com fome, e furioso. Era uma criatura miserável e malvada, e
 já arquitetara um plano.
 Não muito longe ficava sua ilha, da qual Bilbo nada sabia, e ali,
@@ -2579,7 +2562,7 @@ ver nós, vai, meu preciosso? Não. Ele não vai ver nós, e sua espadinha nojen
 vai ser inútil, totalmente inútil.
 Era isso o que estava em sua pequena mente malvada quando
 
---- Página 83 ---
+--- Página 81 ---
 saiu repentinamente do lado de Bilbo, e, batendo os pés até o barco, sumiu no
 escuro. Bilbo achou que nunca mais teria noticias dele. Mesmo assim, esperou
 um pouco, pois não tinha idéia de como encontrar a saída sozinho.
@@ -2615,7 +2598,7 @@ terrível. - As respostas devem ser adivinhadas, e não dadas - disse ele.
 - Mas não foi uma pergunta honesta - disse Gollum.
 - Não foi uma adivinha, preciosso, não foi não.
 
---- Página 84 ---
+--- Página 82 ---
 - Muito bem, se é uma questão de perguntas comuns - Bilbo
 respondeu - então eu lhe fiz uma primeiro. O que foi que você perdeu? Conte!
 - O que ele tem nos bolssos? - O som chegava chiando cada
@@ -2651,7 +2634,7 @@ Com esforço levantou-se, embainhou a espada, que agora
 voltara a brilhar, e depois, com todo o cuidado, seguiu Gollum. Não parecia haver
 mais nada a fazer. Não adiantava arrastar-se de volta até a água de Gollum.
 
---- Página 85 ---
+--- Página 83 ---
 Talvez, se o seguisse, Gollum pudesse levá-lo a alguma saída sem querer.
 - Maldito! Maldito! Maldito! - chiava Gollum. - Maldito Bolseiro.
 Ele se foi! O que ele tem nos bolssos? Nós adivinha, nós
@@ -2687,7 +2670,7 @@ porta de trás.
 precioso.
 - Ssss, sss, gollum! Orcses! Sim, mas se ele está com o
 
---- Página 86 ---
+--- Página 84 ---
 presente, nosso precioso presente, então os orcses vão pegar ele, gollum! Vão
 encontrar ele, vão descobrir o que ele faz. Nunca mais nós vai ficar a salvo de
 novo, nunca mais, gollum! Um dos orcses vai colocar ele no dedo, e então
@@ -2723,7 +2706,7 @@ lá dentro, e recuou encolhido. - Mas nós não arrisca entrar, preciosso, não,
 não arrisca. Orcses lá embaixo. Um monte de orcses. Nós sente o cheiro deles.
 Ssss!
 
---- Página 87 ---
+--- Página 85 ---
 - O que nós vai fazer? Que morram esses malditos! Nós
 precisa esperar aqui, preciosso, esperar um pouco para ver.
 Assim, chegaram a um impasse. Gollum trouxera Bilbo até a
@@ -2759,7 +2742,7 @@ frente e três no ar; na realidade, Bilbo nem percebeu que por um triz não havi
 rachado a cabeça no arco baixo da passagem.
 Gollum jogou-se para trás, e tentou agarrar o hobbit no
 
---- Página 88 ---
+--- Página 86 ---
 momento em que este voava sobre ele, mas era tarde demais: suas mãos
 fecharam-se no ar vazio, e Bilbo, caindo sobre os pés firmes, saiu correndo pelo
 túnel.
@@ -2795,7 +2778,7 @@ escuro, parecia estonteantemente clara. Na realidade, não passava de uma résti
 de sol que entrava por uma soleira, onde uma grande porta, uma Porta de pedra,
 fora deixada aberta.
 
---- Página 89 ---
+--- Página 87 ---
 Bilbo piscou, e então, de repente, viu os orcs: orcs vestindo
 armaduras completas, com espadas desembainhadas, sentados logo na entrada,
 vigiando -a com olhos bem abertos, vigiando a passagem que conduzia até ali.
@@ -2831,7 +2814,7 @@ se de quatro, passou entre as pernas do capitão no último momento, levantou-se
 e correu para a porta.
 Ainda estava aberta, mas um orc a havia empurrado e ela quase
 
---- Página 90 ---
+--- Página 88 ---
 se fechara. Bilbo fez força mas não conseguiu movê-la. Tentou esgueirar-se
 pela fresta. Espremeu-se, espremeu-se e entalou. Foi horrível. Os botões de sua
 roupa se engancharam entre a borda da porta e o batente. Ele podia ver lá fora, o
@@ -2851,7 +2834,7 @@ usando o anel, e entrava e saia furtivamente das sombras das árvores, depressa
 e em silêncio, e mantendo-se fora do alcance do sol; assim, logo voltaram,
 resmungando e praguejando, para guardar a porta. Bilbo tinha escapado.
 
---- Página 91 ---
+--- Página 89 ---
 CAPÍTULO VI
 Da frigideira para o fogo
  
@@ -2887,7 +2870,7 @@ arrastava para dentro dos arbustos na borda do vale. Gandalf estava discutindo
 com os anões. Ponderavam tudo o que acontecera nos túneis, perguntando-se e
 discutindo o que deveriam fazer. Os anões estavam resmungando, e Gandalf
 
---- Página 92 ---
+--- Página 90 ---
 dizia que não podiam continuar a viagem deixando o Sr. Bolseiro nas mãos dos
 orcs, sem tentar descobrir se ele estava vivo ou morto, e sem tentar resgatá-lo.
 - Afinal de contas, ele é meu amigo - disse o mago -, e não é um
@@ -2923,7 +2906,7 @@ Céus! Como pularam! Depois gritaram de surpresa e alegria.
 Gandalf estava tão atônito quanto qualquer um deles, mas provavelmente mais
 alegre que todos os outros. Chamou Balin e disse-lhe o que pensava de vigias
 
---- Página 93 ---
+--- Página 91 ---
 que deixavam alguém aparecer no meio deles daquele jeito, sem nenhum aviso.
 É fato que a reputação de Bilbo entre os anões cresceu muito depois disso. Se
 eles ainda tinham dúvidas, apesar das palavras de Gandalf, de que ele era um
@@ -2959,7 +2942,7 @@ entalado na porta, que só estava um pouquinho aberta, e perdi um monte de
 botões - disse ele tristemente, olhando para as roupas rasgadas. - Mas
 consegui me espremer e passar; e aqui estou.
 
---- Página 94 ---
+--- Página 92 ---
 Os anões o olharam com um respeito inteiramente novo, quando
 ele falou sobre esquivar-se de guardas, saltar sobre Gollum e se espremer e
 passar, como se não fosse nada muito difícil ou alarmante.
@@ -2995,7 +2978,7 @@ festas do solstício de verão do Velho Túk, como vocês devem lembrar). O rest
 todos sabemos - exceto que Gandalf sabia tudo sobre a porta dos fundos, que os
 orcs chamavam portão de baixo, onde Bilbo perdera seus botões. Na verdade,
 
---- Página 95 ---
+--- Página 93 ---
 todos os que estavam familiarizados com aquela região das montanhas
 conheciam-na muito bem; mas era preciso um mago para manter a cabeça fria
 nos túneis e guiar o grupo na direção certa.
@@ -3031,7 +3014,7 @@ Imaginem o que é isso para um hobbit! Seu estômago parecia
 vazio e frouxo, e suas pernas completamente bambas, agora que a excitação
 passara.
 
---- Página 96 ---
+--- Página 94 ---
 - Não há nada a fazer - disse Gandalf - a não ser que você
 queira voltar e pedir aos orcs com toda a educação que lhe devolvam o pônei
 com a bagagem.
@@ -3067,7 +3050,7 @@ rochedos deslocados saltavam, rodopiando por entre as samambaias e as raízes
 dos pinheiros lá embaixo.
 - Bem, isso nos fez avançar um bocado - disse Gandalf - e até
 
---- Página 97 ---
+--- Página 95 ---
 mesmo orcs em nosso encalço vão ter trabalho para descer até aqui sem
 barulho.
 - Talvez - resmungou Bombur -, mas não vai ser difícil rolar
@@ -3103,7 +3086,7 @@ outro, não muito longe, à esquerda. Eram lobos uivando para a lua, lobos se
 juntando!
 Não havia lobos perto da toca do Sr. Bolseiro, mas ele conhecia
 
---- Página 98 ---
+--- Página 96 ---
 aquele barulho. Ouvira a descrição em histórias muitas vezes. Um de seus
 primos mais velhos (do lado dos Túks), que fora um grande viajante, costumava
 imitar o barulho para amedrontá-lo. Ouvi-lo na floresta ao luar era demais para
@@ -3139,7 +3122,7 @@ um tronco para outro, como um coelho que perdeu a toca e está fugindo de um
 cachorro.
 - Você deixou o ladrão para trás outra vez! - disse Nori a Dori,
 
---- Página 99 ---
+--- Página 97 ---
 olhando para baixo.
 - Não posso ficar o tempo todo carregando ladrões nas costas -
 disse Dori -, descendo túneis e subindo em árvores. O que acha que eu sou?
@@ -3175,7 +3158,7 @@ enorme lobo cinzento. Dirigiu-se a eles na terrível língua dos Wargs. Gandalf 
 entendia. Bilbo não, mas aquilo lhe pareceu horrível, como se toda a conversa
 fosse sobre coisas cruéis e malvadas, e de fato era. De quando em quando todos
 
---- Página 100 ---
+--- Página 98 ---
 os Wargs no circulo respondiam ao chefe cinzento numa só voz, e seu clamor
 medonho quase fazia com que o hobbit caísse de seu pinheiro.
 Vou lhes contar o que Gandalf ouviu, embora Bilbo não tenha
@@ -3211,7 +3194,7 @@ de travar uma terrível batalha em vez de capturar prisioneiros e devorar pessoa
 surpreendidas durante o sono. Assim, os Wargs não tinham intenção de ir
 embora e deixar escapar as pessoas em cima das árvores, pelo menos não até
 
---- Página 101 ---
+--- Página 99 ---
 de manhã. E, muito antes disso, diziam eles, soldados orcs viriam das
 montanhas, e orcs podem subir em árvores ou cortá-las.
 Agora vocês podem entender por que Gandalf, ouvindo aqueles
@@ -3247,7 +3230,7 @@ orcs estão aprontando alguma maldade na floresta? Ergueu-se no ar, e
 imediatamente dois de seus guardas, das rochas dos dois lados, saltaram atrás
 dele. Voavam em círculos e olhavam o circulo dos Wargs, um pequeno ponto
 
---- Página 102 ---
+--- Página 100 ---
 distante, bem lá embaixo. Mas as águias têm olhos penetrantes e podem
 enxergar coisas pequenas a uma grande distância. O senhor das águias das
 Montanhas Sombrias tinha olhos que podiam contemplar o sol sem piscar e
@@ -3283,7 +3266,7 @@ troncos, amaldiçoando os anões em sua língua horrível, com as línguas para 
 e os olhos brilhando, tão rubros e ferozes como as chamas.
 Então, de repente, orcs chegaram, correndo e gritando.
 
---- Página 103 ---
+--- Página 101 ---
 Achavam que se travava uma batalha contra os homens da floresta, mas logo
 perceberam o que realmente acontecera. Alguns deles sentaram-se para rir.
 Outros agitavam as lanças e batiam as hastes contra os escudos. Os orcs não
@@ -3317,7 +3300,7 @@ cantem, passarinhos! Por que não cantam?
 que brincam com fogo levam castigo. - Disse isso para deixá-los furiosos, e
 para mostrar que não estava com medo, embora fosse óbvio que estava, mesmo
 
---- Página 104 ---
+--- Página 102 ---
 sendo um mago. Mas eles não tomaram conhecimento e continuaram a cantar.
 Queimar, queimar, samambaia e abeto alvar!
 Mirrar, sapecar! A tocha que chia
@@ -3351,7 +3334,7 @@ os para longe; suas garras dilaceravam as caras dos orcs.
 Outras aves voaram até as copas das árvores e agarraram os
 anões, que agora subiam mais alto do que jamais teriam ousado.
 
---- Página 105 ---
+--- Página 103 ---
 O pobrezinho do Bilbo quase foi deixado para trás de novo!
 Conseguiu apenas agarrar as pernas de Dori, no momento em que Dori era
 levado, por último; e assim os dois passaram juntos por sobre o tumulto e o
@@ -3387,7 +3370,7 @@ nada, e seus pensamentos eram uma mistura de surpresa por ter sido salvo do
 fogo e medo de cair daquele lugar estreito e mergulhar nas sombras profundas
 dos dois lados. Agora sentia-se realmente zonzo, depois das terríveis aventuras
 
---- Página 106 ---
+--- Página 104 ---
 dos últimos três dias, sem quase nada para comer, e viu-se dizendo em voz alta:
 - Agora eu sei como um pedaço de toucinho se sente quando o pegam da panela
 com um garfo e colocam de volta na prateleira!
@@ -3423,7 +3406,7 @@ Gandalf, que estivera várias vezes nas montanhas, outrora prestara um serviço
 às águias, curando o seu o senhor de um ferimento de flecha.
 Então, como vocês podem perceber, “prisioneiros” queria dizer
 
---- Página 107 ---
+--- Página 105 ---
 apenas “prisioneiros resgatados dos orcs”, e não cativos das águias. Ouvindo a
 conversa de Gandalf, Bilbo percebeu que finalmente iriam escapar de verdade
 das terríveis montanhas. O mago estava discutindo com a Grande Águia planos
@@ -3459,10 +3442,10 @@ profundamente do que jamais dormira na cama de penas em sua pequena toca.
 Mas toda a noite sonhou com a própria casa e em seu sonho caminhou em todos
 os cômodos, procurando algo que não conseguia encontrar nem lembrar como
 
---- Página 108 ---
+--- Página 106 ---
 era.
 
---- Página 109 ---
+--- Página 107 ---
 CAPÍTULO VII
 Estranhos alojamentos
  
@@ -3498,7 +3481,7 @@ caminho do rio que a contornava, havia uma grande rocha, quase uma colina de
 pedra, como que um último posto avançado das distantes montanhas, ou um
 enorme pedaço de rocha jogado a milhas de distância planície adentro por algum
 
---- Página 110 ---
+--- Página 108 ---
 gigante entre gigantes.
 As águias desceram rápidas para o topo da rocha, uma a uma, e
 apearam seus passageiros.
@@ -3534,7 +3517,7 @@ ou dois dias. Provavelmente posso ajudá-los a sair desta situação, e eu mesmo
 preciso de alguma ajuda. Estamos sem comida, sem bagagem e sem pôneis
 para montar, e vocês não sabem onde estão. Posso lhes dizer agora. Estão ainda
 
---- Página 111 ---
+--- Página 109 ---
 algumas milhas ao norte da trilha que deveríamos estar seguindo, se não
 tivéssemos deixado a passagem das montanhas às pressas. Pouquíssimas
 pessoas vivem nestas partes, a não ser que tenham vindo para cá depois da
@@ -3570,7 +3553,7 @@ aviso que ele se enfurece com facilidade. Todos os anões se juntaram em volta
 quando ouviram o mago falando daquela maneira com Bilbo. - É essa a pessoa a
 quem você está nos levando agora? - perguntaram eles. - Não poderia achar
 
---- Página 112 ---
+--- Página 110 ---
 alguém menos irritável? Não seria melhor explicar tudo um pouco melhor? - e
 assim por diante.
 - Claro que é! Não, não posso! E eu estava explicando com todo
@@ -3606,7 +3589,7 @@ surgido das montanhas.
 Bilbo e os anões tinham muito em que pensar, e não
 perguntaram mais nada. Ainda tinham diante de si um longo caminho a trilhar.
 
---- Página 113 ---
+--- Página 111 ---
 Avançavam com dificuldade, vale acima e ladeira abaixo. Ficou muito quente.
 Algumas vezes descansavam sob as árvores, e nesses momentos Bilbo sentia
 tanta fome que poderia comer bolotas de carvalho, se alguma já tivesse caído de
@@ -3619,13 +3602,13 @@ perfume de mel. Ouvia-se um zumbido, um murmúrio, um sussurro no ar.
 Abelhas trabalhavam por todos os lados. E que abelhas! Bilbo nunca vira nada
 como elas.
 
---- Página 114 ---
+--- Página 112 ---
 “Se uma me picasse”, pensou ele, “eu incharia o dobro de meu
 tamanho!” Eram maiores que marimbondos. Os zangões eram maiores que um
 polegar, bem maiores, e as faixas amarelas nos seus corpos de um negro
 profundo brilhavam como ouro flamante.
 
---- Página 115 ---
+--- Página 113 ---
 - Estamos chegando perto - disse Gandalf. - Estamos na borda
 das pastagens de suas abelhas.
 Depois de um tempo chegaram a um cinturão de carvalhos altos
@@ -3661,7 +3644,7 @@ os focinhos à altura de seus ombros.
 - Ugh! Aqui estão eles - disse aos cavalos. - Não parecem
 perigosos. Podem sair! - O homem soltou uma gargalhada estrondosa, pôs o
 
---- Página 116 ---
+--- Página 114 ---
 machado no chão e veio em frente.
 - Quem são vocês e o que querem? - perguntou num tom rude,
 parado à frente dos dois, sua estatura elevando-se muito acima da de Gandalf.
@@ -3697,7 +3680,7 @@ Indo atrás dele, os dois viram-se num salão amplo com uma
 lareira no meio. Embora fosse verão, havia lenha queimando e a fumaça subia até
 as vigas enegrecidas procurando a saída através de uma abertura no teto.
 
---- Página 117 ---
+--- Página 115 ---
 Atravessaram esse salão escuro, iluminado apenas pelo fogo e
 pela abertura acima dele, e passaram por uma outra porta menor, por onde
 entraram num tipo de varanda escorada em postes feitos de grandes troncos de
@@ -3733,7 +3716,7 @@ o fato de estarmos em suas terras é um mero acidente. Estávamos atravessando
 a Passagem Alta que nos deveria ter levado até a estrada que fica ao sul de seu
 território, quando fomos atacados por orcs malignos, como eu ia lhe contar.
 
---- Página 118 ---
+--- Página 116 ---
 - Então continue contando! - disse Beorn, que nunca era muito
 educado.
 - Houve uma terrível tempestade; gigantes de pedra jogavam
@@ -3769,7 +3752,7 @@ e Dwalin apareceram e curvaram-se tanto que suas barbas roçaram o chão de
 pedra. O homenzarrão franziu a testa no início mas eles estavam fazendo o
 possível para ser tremendamente educados, e ficaram balançando as cabeças,
 
---- Página 119 ---
+--- Página 117 ---
 curvando-se, fazendo reverências e sacudindo os capuzes diante dos joelhos
 (bem à moda dos anões), até que ele parou de franzir a testa e explodiu numa
 gargalhada: eles estavam tão engraçados.
@@ -3791,11 +3774,11 @@ O Grão-Orc estava lá com trinta ou quarenta guardas armados.
 Pensei comigo: “ainda se não estivessem todos acorrentados, o que poderia uma
 dúzia contra tantos?”
 
---- Página 120 ---
+--- Página 118 ---
 - Uma dúzia! É a primeira vez que ouço um grupo de oito ser
 chamado de uma dúzia. Ou será que você ainda tem mais bonecos que não
 
---- Página 121 ---
+--- Página 119 ---
 saíram das caixas de surpresa?
 - Bem, sim, agora parece haver mais dois deles aqui. Fili e Kili
 eu acho - disse Gandalf, no momento em que os dois apareceram e postaram-se
@@ -3831,7 +3814,7 @@ estava causando uma boa impressão, fiz o melhor que pude. Ali estávamos nós,
 com lobos enfurecidos lá embaixo e a floresta começando a queimar aqui e
 acolá, quando os orcs desceram das colinas e nos descobriram.
 
---- Página 122 ---
+--- Página 120 ---
 Gritaram de prazer e cantaram canções zombando de nós. Em
 cinco pinheiros quinze passarinhos...
 - Céus! - resmungou Beorn. - Não me diga que os orcs não
@@ -3867,7 +3850,7 @@ e de corpo alongado. Beorn disselhes algo numa língua estranha, que parecia
 ruídos animais transformados em fala. Eles saíram de novo e logo voltaram
 carregando tochas na bocas, que acenderam na fogueira e colocaram em
 
---- Página 123 ---
+--- Página 121 ---
 suportes baixos nos pilares do salão, ao redor da lareira central. Os cães
 conseguiam ficar de pé nas patas traseiras quando desejavam, e carregar
 coisas com as patas dianteiras. Logo tiraram tábuas e cavaletes das paredes
@@ -3903,7 +3886,7 @@ dragão. Quando o jantar terminou, começaram a contar histórias suas, mas
 Beorn parecia estar ficando com sono e prestava pouca atenção. Falaram
 principalmente de ouro, prata e pedras preciosas e sobre a fabricação de objetos
 
---- Página 124 ---
+--- Página 122 ---
 de ourivesaria, e Beorn não parecia ligar para essas coisas: não havia objetos de
 ouro ou prata em seu salão e, exceto pelas facas, poucos eram de metal.
 Ficaram sentados à mesa por um longo tempo, as tigelas de
@@ -3938,7 +3921,7 @@ sobre o lago agitado um céu calado
 nuvens correndo rasgadas e horrores.
 As desertas montanhas lá se vão,
 
---- Página 125 ---
+--- Página 123 ---
 Varre ele agora a toca do dragão
 trevas e negrume, pedras em cardume,
 fumaça impregna o ar de escuridão.
@@ -3973,7 +3956,7 @@ abriu os olhos.
 - Levante-se, preguiçoso - disse ele -, ou não vai sobrar
 desjejum para você.
 
---- Página 126 ---
+--- Página 124 ---
 - Bilbo levantou-se de um salto. - Desjejum! - exclamou ele. -
 Onde está o desjejum?
 - A maior parte já está dentro de nossas barrigas -
@@ -4009,7 +3992,7 @@ como um bando de pássaros na distância.
 Deve ter havido uma verdadeira reunião de ursos aqui fora ontem à noite.
 Logo vi que Beorn não poderia ter feito todas aquelas pegadas:
 
---- Página 127 ---
+--- Página 125 ---
 havia muitas e eram também de vários tamanhos. Diria que havia ursos
 pequenos, ursos grandes, ursos comuns e ursos gigantescos, todos dançando
 lá fora desde o cair da noite até o nascer do dia. Vieram praticamente de todas as
@@ -4045,7 +4028,7 @@ devorado por wargs, orcs ou ursos malvados, pelo que estou vendo - cutucou o
 colete do Sr. Bolseiro sem o menor respeito. - O coelhinho está ficando fofito e
 gordinho de novo, à custa de pão e mel - disse ele, rindo à socapa. - Venha e
 
---- Página 128 ---
+--- Página 126 ---
 coma mais um pouco!
 Assim foram todos fazer o desjejum com ele. Beorn estava muito
 alegre, para variar; na verdade parecia estar num humor esplêndido, e pôs todos
@@ -4081,7 +4064,7 @@ na casa. Havia uma cabeça de orc espetada do lado de fora do portão, e uma pel
 de lobo estava pregada em uma árvore logo atrás. Beorn era um inimigo feroz.
 Mas agora era amigo deles, e Gandalf julgou sensato contar-lhe toda a história
 
---- Página 129 ---
+--- Página 127 ---
 e o motivo da viagem, para que pudessem conseguir toda a ajuda que Beorn
 pudesse oferecer.
 Eis o que prometeu fazer por eles. Arranjaria pôneis para cada
@@ -4117,7 +4100,7 @@ capuzes, além de inúmeros “ao seu dispor, ó, mestre dos amplos salões de
 madeira!” Mas os espíritos abateram-se diante daquelas palavras graves, e
 todos sentiam que a aventura era muito mais perigosa do que haviam imaginado,
 
---- Página 130 ---
+--- Página 128 ---
 que, o tempo todo, mesmo que conseguissem passar por todos os perigos da
 estrada, o dragão estaria esperando no fim.
 Durante toda aquela manhã ocuparam-se dos preparativos.
@@ -4153,7 +4136,7 @@ norte, embora pareçam estar aproximando-se outra vez das fortalezas deles, pois
 isso é o que eles menos esperam e vão fazer o caminho mais longo para pegá-
 los. Agora partam com a maior rapidez possível!
 
---- Página 131 ---
+--- Página 129 ---
 Era por isso que agora cavalgavam em silêncio, galopando nos
 trechos onde o chão era gramado e macio, com as montanhas escuras à
 esquerda e, na distância, a linha do rio com suas árvores cada vez mais
@@ -4189,7 +4172,7 @@ sisuda. O terreno começou a subir cada vez mais, e o hobbit tinha a impressão
 de que um silêncio começava a envolvê-los. Os pássaros passavam a cantar
 menos. Não havia mais cervos; não se viam nem mesmo coelhos. À tarde tinham
 
---- Página 132 ---
+--- Página 130 ---
 atingido a fronteira da Floresta das Trevas, e descansavam quase embaixo dos
 grandes ramos que se projetavam das árvores da orla. Os troncos eram
 enormes e nodosos, os galhos retorcidos, as folhas escuras e longas. A hera
@@ -4225,7 +4208,7 @@ com vocês. Podemos nos encontrar de novo antes que tudo esteja terminado, e
 também podemos não nos encontrar.
 Isso depende de sua sorte, coragem e bom senso, e estou
 
---- Página 133 ---
+--- Página 131 ---
 mandando o Sr. Bolseiro com vocês. Já lhes disse antes que ele é mais do que
 imaginam, e logo descobrirão isso. Então, anime-se, Bilbo, e não fique com essa
 cara amarrada. Animem-se, Thorin e Companhia! Afinal de contas, essa
@@ -4261,7 +4244,7 @@ voltará a revê-los.
 - Têm, sim! - disse o mago -, se quiserem chegar ao outro
 lado. Ou atravessam ou desistem da busca. E não vou permitir que recue agora,
 
---- Página 134 ---
+--- Página 132 ---
 Sr. Bolseiro. Sinto vergonha por você pensar nisso. Tem de cuidar de todos
 esses anões por mim - disse ele, rindo.
 - Não! Não! - disse Bilbo. - Não quis dizer isso. Queria dizer,
@@ -4294,7 +4277,7 @@ perigosa de toda a viagem. Cada um colocou nos ombros a pesada mochila e o
 odre de água que lhe cabia; viraram as costas para a luz que cobria as terras do
 lado de fora e mergulharam na floresta.
 
---- Página 135 ---
+--- Página 133 ---
 CAPÍTULO VIII
 Moscas e aranhas
  
@@ -4330,7 +4313,7 @@ sabiam dizer.
 Não demorou muito para que começassem a odiar a floresta
 com a mesma intensidade com que haviam odiado os túneis dos orcs, e ela
 
---- Página 136 ---
+--- Página 134 ---
 parecia oferecer ainda menos esperanças de chegar ao fim. Mas tinham de
 avançar sempre, mesmo muito depois de começarem a morrer de vontade de ver
 o sol e o céu e de ansiarem pelo vento em seus rostos. O ar não se movimentava
@@ -4366,7 +4349,7 @@ com as provisôes. Mesmo assim, conforme os dias passavam e, ainda assim, a
 floresta parecia sem pre a mesma, começaram a ficar apreensivos.
 A comida não duraria para sempre: na verdade, já estava
 
---- Página 137 ---
+--- Página 135 ---
 começando a minguar. Tentaram atirar nos esquilos e desperdiçaram muitas
 flechas até conseguirem abater um na trilha. Mas, quando o assaram, viram que
 o gosto da carne era horrível, e não mataram mais nenhum esquilo.
@@ -4402,7 +4385,7 @@ Fili achava que podia; então, quando tinha observado um longo
 tempo para ter uma idéia da direção, os outros trouxeram-lhe uma corda.
 Levavam muitas consigo, e na extremidade da mais longa fixaram um dos
 
---- Página 138 ---
+--- Página 136 ---
 grandes ganchos de ferro que usavam para prender as mochilas nas tiras em
 seus ombros. Fili pegou o gancho, balançou-o por um momento e então lançou-o
 através do rio.
@@ -4438,7 +4421,7 @@ ou algo ruim lhe acontecera.
 - Não temos nenhum remo. Como vocês vão empurrar o barco
 até a outra margem? - perguntou o hobbit.
 
---- Página 139 ---
+--- Página 137 ---
 Dê-me mais um pedaço de corda e outro gancho - disse Fili, e
 quando estava tudo pronto, jogou -o na escuridão, tão alto e distante quanto
 pôde. Como o gancho não cau de novo, perceberam que devia ter se prendido
@@ -4474,7 +4457,7 @@ Ele a agarrou e foi puxado até a margem. Estava encharcado do
 cabelo até as botas, é claro, mas isso não era o pior. Quando o deitaram na
 margem, já estava num sono profundo, uma mão segurando a corda com tanta
 
---- Página 140 ---
+--- Página 138 ---
 força que era impossível tirá-la dali; e num sono profundo permaneceu, apesar
 de tudo o que fizeram.
 Ainda estavam ao lado dele, amaldiçoando sua má sorte e a
@@ -4510,7 +4493,7 @@ Se estas não se tivessem tornado leves demais nos últimos dias,
 nunca teriam conseguido; mas um Bombur adormecido e sorridente por mochilas
 cheias de comida era uma permuta pobre, por mais pesado que fosse. Em
 
---- Página 141 ---
+--- Página 139 ---
 poucos dias chegou um momento em que não havia praticamente mais nada que
 comer ou beber. Não se via nada comestível crescendo na floresta, apenas
 fungos e ervas com folhas amareladas e cheiro desagradável.
@@ -4546,7 +4529,7 @@ da melhor maneira que pôde. Abriu caminho através dos galhos entrelaçados,
 levando muitos golpes nos olhos; a casca envelhecida dos galhos maiores
 deixou-o esverdeado e encardido, mais de uma vez escorregou e quase não
 
---- Página 142 ---
+--- Página 140 ---
 conseguiu segurar-se a tempo, e, finalmente, depois de uma terrível batalha, num
 ponto difícil onde parecia não haver nenhum galho conveniente, Bilbo chegou
 perto do topo.
@@ -4582,7 +4565,7 @@ conseguia ver nada na escuridão. Seu relato logo deixou os outros tão arrasado
 quanto ele.
 - A floresta continua para todo o sempre em todas as direções!
 
---- Página 143 ---
+--- Página 141 ---
 O que vamos fazer? E de que adianta mandar um hobbit? - exclamaram eles,
 como se a culpa fosse de Bilbo. Não deram a mínima atenção às borboletas e só
 ficaram mais enfurecidos quando ele lhes contou da agradável brisa, que não
@@ -4618,7 +4601,7 @@ semanas de provisões escassas.
 Agora não restava nada a fazer exceto apertar os cintos ao
 redor das barrigas vazias, pegar os sacos e mochilas vazios e avançar pela
 
---- Página 144 ---
+--- Página 142 ---
 trilha sem nenhuma grande esperança de chegar ao fim antes de caírem no chão
 e morrerem de fome. Foi o que fizeram durante todo aquele dia, avançando bem
 devagar e exaustos, enquanto Bombur continuava queixando-se de que suas
@@ -4654,7 +4637,7 @@ perto das luzes e descobrir mais sobre elas. Mas, então, não conseguiram
 concordar sobre quem deveria ser enviado: nenhum deles parecia ansioso por
 correr o risco de se perder e nunca mais encontrar os amigos. No fim, apesar de
 
---- Página 145 ---
+--- Página 143 ---
 todas as recomendações, a fome decidiu por eles, porque Bombur continuava
 descrevendo todas as coisas boas que havia para comer, de acordo com seu
 sonho, no banquete silvestre; então todos deixaram a trilha e mergulharam juntos
@@ -4690,7 +4673,7 @@ vários pontos de luz piscando. E eles ouviam claramente as vozes e os risos.
 Esgueiraram-se lentamente na direção delas, em fila indiana, cada um
 segurando as costas do que ia a frente. Quando chegaram perto, Thorin disse: -
 
---- Página 146 ---
+--- Página 144 ---
 Nada de correr desta vez! Ninguém deve sair do esconderijo até que eu diga.
 Vou mandar primeiro o Sr. Bolseiro sozinho para conversar com eles. Não
 sentirão medo dele (“E eu não vou sentir medo deles?”, pensou Bilbo) e, de
@@ -4726,7 +4709,7 @@ escutem a cantoria e as harpas!
 Depois de ficarem deitados escutando por um tempo,
 perceberam que não podiam mais resistir ao desejo de chegar mais perto e
 
---- Página 147 ---
+--- Página 145 ---
 tentar mais uma vez conseguir ajuda. Levantaram-se de novo, e desta vez o
 resultado foi desastroso. O banquete que viram era maior e mais magnífico que
 antes, e na cabeceira de uma longa fila de pessoas sentava-se um rei da floresta
@@ -4762,7 +4745,7 @@ esquerda, e, quando tentou se mover, percebeu que suas pernas já estavam
 presas na mesma coisa, de modo que caiu quando tentou se levantar.
 Então a grande aranha, que se ocupara em amarrá-lo enquanto
 
---- Página 148 ---
+--- Página 146 ---
 ele cochilava, veio por trás dele e o atacou. Bilbo só conseguia ver os olhos da
 coisa, mas sentia suas pernas peludas enquanto ela lutava para enrolá-lo em
 seus abomináveis fios. Teve sorte por voltar a si em tempo. Logo não poderia
@@ -4798,7 +4781,7 @@ Gandalf! - lamentou ele. - Em que enrascada nós estamos agora! Nós! Bem que
 eu queria dizer nós: é horrível ficar sozinho.
 No final, tentou adivinhar da melhor maneira possível a direção
 
---- Página 149 ---
+--- Página 147 ---
 de onde vinham os gritos de socorro que ouvira durante a noite - e por sorte
 (Bilbo nascera com uma boa quantidade dela) adivinhou mais ou menos certo,
 como vocês vão ver. Depois de decidir, esgueirou-se com a maior perícia
@@ -4834,7 +4817,7 @@ até alcançar uma dúzia de embrulhos pendurados em fila num mesmo galho alto.
 Bilbo ficou horrorizado, agora que os notava pela primeira vez,
 balançando nas sombras, ao ver um pé de anão surgindo do fundo de um dos
 
---- Página 150 ---
+--- Página 148 ---
 embrulhos, ou aqui e ali a ponta de um nariz, um pedaço de barba ou de capuz.
 A aranha se dirigiu para o embrulho mais gordo - “É o pobre
 Bombur, aposto”, pensou Bilbo - e deu um forte beliscão no nariz que estava de
@@ -4870,7 +4853,7 @@ muito bem adivinhar a direção de onde as pedras vinham.
 Depressa como um raio, vieram correndo e balançando na
 direção do hobbit, lançando seus longos fios em todas as direções, até que o ar
 
---- Página 151 ---
+--- Página 149 ---
 parecia cheio de armadilhas ondulantes.
 Bilbo, entretanto, logo se esgueirou para um outro lugar.
 Ocorreu-lhe a idéia de atrair as furiosas aranhas cada vez mais para longe dos
@@ -4906,7 +4889,7 @@ Bilbo correu para se esconder num lugar diferente, mas várias
 das aranhas tinham agora ido para diversos pontos da clareira onde viviam, e se
 ocupavam em tecer teias em todos os espaços entre os troncos das árvores. O
 
---- Página 152 ---
+--- Página 150 ---
 hobbit logo ficaria preso numa cerca densa de teias feita em toda a sua volta -
 pelo menos essa era a idéia das aranhas. Parado no meio dos bichos caçando e
 tecendo, Bilbo juntou toda a sua coragem e começou uma nova canção:
@@ -4942,7 +4925,7 @@ para trás vigiando os prisioneiros, e estivera ocupada a beliscá-los para ver 
 era o mais suculento. Pensara em começar o banquete enquanto as outras
 estavam longe, mas o Sr. Bolseiro estava com pressa e antes que a aranha
 
---- Página 153 ---
+--- Página 151 ---
 soubesse o que se passava, sentiu a ferroada do hobbit, rolou do galho e caiu
 morta no chão.
 O próximo serviço de Bilbo era libertar um anão. O que devia
@@ -4978,7 +4961,7 @@ Bilbo imediatamente foi para a ponta do galho mais próxima do
 tronco e manteve afastadas as que subiam. Tirara o anel ao resgatar Fili e
 esquecera-se de colocá -lo de novo, e todas começaram a esbravejar e chiar.
 
---- Página 154 ---
+--- Página 152 ---
 - Agora vemos você, sua criaturinha nojenta! Vamos devorá-lo e
 deixar sua pele e seus ossos pendurados numa árvore, ugh! Ele tem um ferrão,
 não é? Bem, vamos pegá-lo mesmo assim, e depois vamos pendurá-lo de cabeça
@@ -5014,7 +4997,7 @@ outros paus, e todos eles podiam pegar pedras, e Bilbo tinha seu punhal élfico.
 Repetidas vezes as aranhas foram rechaçadas, e muitas
 morreram. Mas aquilo não podia continuar por muito tempo. Bilbo estava quase
 
---- Página 155 ---
+--- Página 153 ---
 exausto; apenas quatro anões conseguiam se manter de pé com firmeza, e logo
 todos seriam vencidos como moscas inermes. As aranhas já começavam a tecer
 suas teias em toda a volta deles, de uma árvore a outra.
@@ -5050,7 +5033,7 @@ atônitas.
 - Em frente! Em frente! - gritou ele. - Eu cuido das ferroadas! E
 assim fez. Voava para trás e para a frente, golpeando os fios das aranhas,
 
---- Página 156 ---
+--- Página 154 ---
 cortando suas pernas e apunhalando seus corpos gordos quando chegavam
 perto demais. As aranhas inchavam de raiva, esbravejavam e espumavam chiando
 maldições horríveis; mas tinham um medo mortal de Ferroada, e não ousavam
@@ -5086,7 +5069,7 @@ lhe muitas vezes. Alguns até se levantaram e e se curvaram até o chão diante
 dele, embora caíssem devido ao esforço e não conseguissem pôr-se de pé de
 novo por algum tempo. Saber a verdade sobre o desaparecimento não alterou de
 
---- Página 157 ---
+--- Página 155 ---
 modo algum a opinião deles sobre Bilbo, pois perceberam que o hobbit tinha
 certa inteligência, além de sorte e um anel mágico - e todas as três coisas são
 posses muito úteis. Na verdade, elogiaram-no tanto que Bilbo começou a sentir
@@ -5122,7 +5105,7 @@ passaram por ele sem que os ouvisse. Então os Elfos da Floresta vieram até ele
 amarraram-no e levaram-no embora.
 Os participantes do banquete eram Elfos da Floresta, é claro.
 
---- Página 158 ---
+--- Página 156 ---
 Não são um povo mau. Se têm algum defeito, é sua desconfiança de estranhos.
 Embora sua mágica fosse forte, mesmo naqueles dias eram
 cautelosos. Eram diferentes dos Altos Elfos do oeste, além de mais perigosos e
@@ -5158,7 +5141,7 @@ com alguns anões, a quem acusavam de roubarem seus tesouros. É justo dizer
 que os anões contavam uma história diferente, e diziam que apenas pegaram o
 que lhes era devido, pois o rei dos Elfos negociara com eles para que
 
---- Página 159 ---
+--- Página 157 ---
 trabalhassem seu ouro e prata brutos, e depois recusara-se a pagar-lhes o que
 devia. Se o Rei dos Elfos tinha um fraco, era por tesouros, especialmente prata e
 pedras brancas, e, embora seu estoque fosse rico, estava sempre ávido por
@@ -5194,14 +5177,14 @@ boas; pois os Elfos da Floresta não eram orcs, e comportavam-se razoavelmente
 bem até mesmo com seus piores inimigos quando os capturavam. Os únicos
 seres vivos com quem não tinham clemência eram as aranhas gigantes.
 
---- Página 160 ---
+--- Página 158 ---
 Ali, no calabouço do rei, ficou o pobre Thorin; e depois de
 sentir-se grato pela refeição, começou a imaginar o que teria acontecido com
 seus infelizes amigos. Não demorou muito para que descobrisse, mas isso
 pertence ao próximo capitulo e ao início de outra aventura, na qual o hobbit mais
 uma vez mostrou sua utilidade.
 
---- Página 161 ---
+--- Página 159 ---
 CAPÍTULO IX
 Barris soltos
  
@@ -5237,7 +5220,7 @@ rápida e forte lá embaixo; na extremidade oposta havia portões diante da aber
 de uma enorme caverna incrustada no flanco de urna encosta íngreme coberta de
 árvores. Ali as grandes faias desciam para a margem, até suas raízes tocarem o
 
---- Página 162 ---
+--- Página 160 ---
 rio.
 Pela ponte os elfos foram empurrando seus prisioneiros, mas
 Bilbo hesitava lá atrás. Não gostava nem um pouco da aparência da abertura da
@@ -5273,7 +5256,7 @@ deixou o rei mais zangado que nunca, e ele respondeu:
 Esquecem-se de que estavam em meu reino, usando a estrada feita por meu
 povo? Não é verdade que por três vezes vocês perseguiram e incomodaram meu
 
---- Página 163 ---
+--- Página 161 ---
 povo na floresta, despertando as aranhas com toda a confusão que fizeram?
 Depois de todo o incômodo que causaram, tenho o direito de saber o que os traz
 aqui, e se não me disserem agora, vou mantê-los todos presos até que tenham
@@ -5293,7 +5276,7 @@ fazer, começou a circular pelo palácio do Rei Élfico. Os portões fechavam-se
 mágica, mas algumas vezes, quando agia com rapidez, conseguia sair. De
 quando em quando, companhias de Elfos da Floresta, algumas vezes sob a
 
---- Página 164 ---
+--- Página 162 ---
 liderança do rei, saíam para caçar e para fazer outras coisas na floresta e nas
 terras ao leste. Nessas ocasiões, se Bilbo conseguia ser bem ligeiro, podia
 esgueirar-se bem atrás deles, embora isso fosse perigoso. Mais de uma vez
@@ -5329,7 +5312,7 @@ imediatamente, é claro, que se tratava de Thorin; depois de algum tempo
 descobriu que sua suspeita estava correta. Por fim, depois de muitas
 dificuldades, conseguiu encontrar o lugar quando não havia ninguém por perto, e
 
---- Página 165 ---
+--- Página 163 ---
 trocar algumas palavras com o líder dos anões.
 Thorin estava por demais arrasado para continuar zangado
 diante de seus infortúnios, e até começava a pensar em dizer ao rei tudo sobre
@@ -5365,7 +5348,7 @@ não lhe ocorria nenhuma idéia brilhante. Um anel de invisibilidade era uma coi
 vocês imaginaram, que no fim ele resgatou os amigos, e foi assim que
 aconteceu.
 
---- Página 166 ---
+--- Página 164 ---
 Um dia, bisbilhotando e vagando pelo palácio, Bilbo descobriu
 uma coisa muito interessante: os grandes portões não eram a única entrada para
 as cavernas. Um rio passava embaixo de algumas das regiões mais baixas do
@@ -5401,7 +5384,7 @@ serem conduzidos pela correnteza a um lugar distante, onde a margem formava
 uma saliência, perto da fronteira leste da Floresta das Trevas.
 Ali eram recolhidos, amarrados, e flutuavam de volta para a
 
---- Página 167 ---
+--- Página 165 ---
 Cidade do Lago, que ficava perto do ponto onde o Rio da Floresta desembocava
 no Lago Comprido.
 Bilbo ficou sentado por algum tempo pensando sobre aquela
@@ -5437,7 +5420,7 @@ coração muitas vezes subia-lhe à boca, apesar do anel, pois não conseguia
 impedir que as chaves de vez em quando produzissem um sonoro clinque-
 clanque, que fazia todo o seu corpo estremecer.
 
---- Página 168 ---
+--- Página 166 ---
 - Primeiro, destrancou a porta de Balin, e depois trancou-a
 novamente com cuidado, assim que o anão saiu. Balin ficou extremamente
 surpreso, como vocês podem imaginar; mas, mesmo feliz como estava por sair
@@ -5473,7 +5456,7 @@ algum plano sensato quando conseguiu pegar as chaves. Essa idéia é maluca!
 - Muito bem! - disse Bilbo, bastante frustrado e também
 bastante irritado. - Voltem para as suas agradáveis celas, e eu vou trancar todos
 
---- Página 169 ---
+--- Página 167 ---
 outra vez, e podem então ficar lá sentados confortavelmente pensando num plano
 melhor. Mas acho que não conseguirei as chaves de novo, mesmo que me sinta
 inclinado a tentar.
@@ -5509,7 +5492,7 @@ eram espaçosos demais, e, enquanto entravam, os anões pensavam com
 angústia nos solavancos e batidas que sofreriam lá dentro, embora Bilbo fizesse
 o possível para encontrar palha e outros materiais para embalá-los com o maior
 
---- Página 170 ---
+--- Página 168 ---
 conforto possível num tempo tão curto. Finalmente, doze anões estavam
 acondicionados. Thorin dera um bocado de trabalho, virando-se e contorcendo-
 se em sua barrica, resmungando como um cachorro grande num canil pequeno,
@@ -5545,7 +5528,7 @@ que comecemos! Não é preciso acordar o carcereiro aí. Pelo jeito, ele já beb
 a sua parte.
 Beberam então uma rodada e ficaram muito alegres de repente.
 
---- Página 171 ---
+--- Página 169 ---
 Mas não perderam completamente o senso.
 - Tenha dó, Galion! - gritaram alguns. - Você começou o
 banquete cedo demais e ficou desnorteado! Enfileirou aqui alguns barris cheios,
@@ -5581,7 +5564,7 @@ Pois, mesmo que pudesse escapar imediatamente pelos portões superiores,
 tinha pouquíssimas chances de encontrar os anões outra vez.
 Não conhecia o caminho por terra para o lugar onde os barris
 
---- Página 172 ---
+--- Página 170 ---
 eram recolhidos. Ficou imaginando o que aconteceria aos anões sem ele, pois
 não tivera tempo de contar-lhes tudo o que descobrira ou o que pretendia fazer
 quando estivessem fora da floresta.
@@ -5617,7 +5600,7 @@ Onde há amoras inchadas e docinhas.
 Já sob a luz do dia, à luz do sol,
 Para o sul, sempre em frente para o sul!
 
---- Página 173 ---
+--- Página 171 ---
 Descendo a escura e rápida corrente
 Retorna para a terra de tua gente!
  
@@ -5634,7 +5617,7 @@ túnel escuro, flutuando na água gelada, completamente sozinho - pois não se
 pode contar amigos que estão dentro de barris.
  
 
---- Página 174 ---
+--- Página 172 ---
  
 Logo uma mancha cinzenta surgiu na escuridão à frente. Bilbo
 ouviu o ranger da comporta sendo içada, e viu-se em meio a uma confusão de
@@ -5670,7 +5653,7 @@ Ele então percebeu que manter-se montado era tão difícil
 quanto temera mas, de algum modo, conseguiu, embora fosse terrivelmente
 desconfortável.
 
---- Página 175 ---
+--- Página 173 ---
 Por sorte, era muito leve, o barril era de bom tamanho e, como
 tinha alguns orifícios, já deixara entrar um pouco de água. Mesmo assim. Era
 como tentar montar, sem rédea ou estribo, um pônei barrigudo que estivesse
@@ -5706,7 +5689,7 @@ bem a principio, mas foi descoberto no fim pelas suas pegadas molhadas e por
 causa da trilha de pingos que deixava aonde quer que fosse ou se sentasse;
 também começou a ficar resfriado e em qualquer lugar que tentasse se
 
---- Página 176 ---
+--- Página 174 ---
 esconder era descoberto pelas sensacionais explosões de seus espirros mal-
 abafados. Logo havia uma grande confusão na vila ribeirinha, mas Bilbo escapou
 floresta adentro, carregando um pão, um odre de vinho, e uma torta, que não lhe
@@ -5737,7 +5720,7 @@ direção do Lago.
 Tinham escapado dos calabouços do rei e atravessado a
 floresta, mas resta saber se estavam vivos ou mortos.
 
---- Página 177 ---
+--- Página 175 ---
 CAPÍTULO X
 Uma acolhida calorosa
  
@@ -5773,7 +5756,7 @@ Haviam mudado até mesmo nos últimos anos, e desde as
 haviam aumentado o volume das águas que corriam para o leste; também
 houvera um ou dois terremotos (que alguns se inclinavam a atribuir ao dragão -
 
---- Página 178 ---
+--- Página 176 ---
 fazendo alusão a ele principalmente com uma praga e um agourento aceno de
 cabeça na direção da Montanha). Os pântanos e charcos haviam avançado,
 espalhando-se dos dois lados. Trilhas tinham desaparecido, assim como vários
@@ -5809,7 +5792,7 @@ em cima, onde as estrelas da Foice já estavam piscando, o Rio Corrente, vindo
 de Valle, desaguava no lago e, junto com o Rio d a Floresta, enchia de águas
 profundas o que devia antes ter sido um grande e profundo vale rochoso. Na
 
---- Página 179 ---
+--- Página 177 ---
 extremidade sul as águas reunidas derramavam-se outra vez por sobre altas
 cachoeiras e corriam depressa para terras desconhecidas. No ar quieto do fim d
 e tarde podia-se ouvir o ruído das cachoeiras como um rugido distante.
@@ -5827,7 +5810,7 @@ do dragão. Ainda prosperavam por causa do comércio que vinha do sul pelo
 grande rio e era carreado até a sua cidade, contornando as cachoeiras; mas nos
 grandes dias de outrora, quando Valle do Norte era rica e próspera, eles haviam
 
---- Página 180 ---
+--- Página 178 ---
 sido abastados e poderosos e houvera frotas de barcos sobre as águas, alguns
 carregados de ouro e outros de guerreiros vestidos com armaduras, e houvera
 guerras e feitos que agora eram apenas uma lenda. As estacas podres de uma
@@ -5863,7 +5846,7 @@ por uma semana. Era Thorin, mas vocês só poderiam tê-lo reconhecido pela
 corrente de ouro e pelo capuz azul celeste, agora sujo e rasgado, com sua borla
 prateada sem brilho. Demorou algum tempo antes que ele pudesse ser ao menos
 
---- Página 181 ---
+--- Página 179 ---
 polido com o hobbit.
 - Bem, você está vivo ou morto? - perguntou Bilbo, bastante
 irritado. Talvez esquecesse que tivera pelo menos uma boa refeição a mais que
@@ -5899,7 +5882,7 @@ dormindo ou desmaiado; Don, Nori, Ori , Oin e Gloin estavam ensopados e
 pareciam apenas semi-vivos; tiveram todos de ser carregados, um por um, e
 deitados na margem, completamente impotentes.
 
---- Página 182 ---
+--- Página 180 ---
 - Bem! Aqui estamos nós! - disse Thorin. - E acho que
 devemos agradecer às nossas estrelas e ao Sr. Bolseiro. Estou certo de que ele
 tem o direito de esperar por isso, apesar de desejar que ele tivesse arranjado
@@ -5935,7 +5918,7 @@ imediatamente amarela. O capitão da guarda deu um passo a frente.
 - E quem são estes? - perguntou ele, apontando para Fili. Kili e
 Bilbo.
 
---- Página 183 ---
+--- Página 181 ---
 - Os filhos da filha de meu pai - respondeu Thorin. - Fili e Kili,
 da raça de Durin. E o Sr. Bolseiro, que viajou conosco desde o oeste.
 - Se vêm em paz, abaixem suas armas! - disse o capitão.
@@ -5971,7 +5954,7 @@ parando diante da mesa do Senhor, eles gritaram:
 vagabundos e andarilhos que não conseguiram apresentar nenhuma boa
 explicação sobre si mesmos, que entraram furtivamente na floresta e molestaram
 
---- Página 184 ---
+--- Página 182 ---
 nosso povo!
 - Isso é verdade? - perguntou o Senhor. Na verdade, achava
 isso muito mais provável do que o retorno do Rei sob a Montanha, se é que tal
@@ -6007,7 +5990,7 @@ E a grama ao sol se agitam;
 Sua riqueza jorra em fontes,
 Rios de ouro palpitam.
 
---- Página 185 ---
+--- Página 183 ---
 Felizes correm riachos,
 Queimam os lagos brilhando,
 Não há pranto nem tristeza
@@ -6043,7 +6026,7 @@ reconquistado e Smaug, partido em pedacinhos.
 Então, como ele dissera, a boa vontade dos anões para com o
 pequeno hobbit crescia a cada dia. Não havia mais gemidos ou resmungos.
 
---- Página 186 ---
+--- Página 184 ---
 Bebiam à saúde dele, davamlhe tapinhas nas costas e faziam um estardalhaço à
 sua volta; o que vinha bem a calhar, pois ele não se sentia particularmente
 alegre. Não esquecera a aparência da Montanha nem o dragão e, além disso,
@@ -6079,7 +6062,7 @@ ousariam aproximar-se de Smaug. Acreditava que eram impostores que, mais
 cedo ou mais tarde, seriam descobertos e desmascarados. Estava enganado.
 Thorin, é claro, era realmente o neto do Rei sob a Montanha, e
 
---- Página 187 ---
+--- Página 185 ---
 ninguém sabe o que um anão é capaz de ousar ou fazer por vingança ou para
 recuperar o que é seu.
 Mas o Senhor não ficou consternado por deixá-los ir. Eram
@@ -6101,7 +6084,7 @@ janelas. Os remos afundavam na água, e eles partiram para o norte, subindo o
 lago na última etapa de sua longa jornada. A única pessoa completamente infeliz
 era Bilbo.
 
---- Página 188 ---
+--- Página 186 ---
 CAPÍTULO XI
 Na soleira da porta
  
@@ -6137,7 +6120,7 @@ Havia pouca grama, e, em pouco tempo não se via nem arbusto nem árvore,
 apenas troncos quebrados e enegrecidos que lembravam outros, desaparecidos
 muito tempo atrás. Haviam chegado á Desolação do dragão, haviam chegado ao
 
---- Página 189 ---
+--- Página 187 ---
 final do ano.
 Atingiram as fraldas da Montanha, porém, sem encontrar
 qualquer perigo ou sinal do Dragão, exceto o deserto que ele fizera em torno de
@@ -6148,9 +6131,9 @@ Sobre ele houvera um antigo posto de guarda, mas não se
 atreviam a subir ainda, pois era exposta demais.
  
 
---- Página 190 ---
+--- Página 188 ---
 
---- Página 191 ---
+--- Página 189 ---
  
 Antes de vasculharem os contrafortes ocidentais da Montanha
 em busca da porta oculta, na qual depositavam todas as suas esperanças, Thorin
@@ -6186,7 +6169,7 @@ que você esteja certo. Mas ele pode ter se afastado por algum tempo, ou pode
 estar deitado na encosta da Montanha montando guarda, e ainda assim acho que
 a fumaça e o vapor continuariam saindo daqueles portões: todos os salões devem
 
---- Página 192 ---
+--- Página 190 ---
 estar cheios da sua fumaça nojenta.
 Com esses pensamentos melancólicos, sempre seguidos por
 corvos crocitantes, fizeram desanimadamente o caminho de volta ao
@@ -6222,7 +6205,7 @@ alvoroçados, ele e os anões encontraram vestígios de uma trilha estreita, mui
 vezes perdida, muitas vezes reencontrada, que continuava até o topo da
 cordilheira sul e que os levou finalmente até uma saliência ainda mais estreita,
 
---- Página 193 ---
+--- Página 191 ---
 que avançava para o norte através do flanco da Montanha. Olhando para baixo
 perceberam que estavam no topo do penhasco, na parte superior do vale, e lá de
 cima podiam avistar o seu acampamento. Silenciosamente, agarrando-se à
@@ -6258,7 +6241,7 @@ baixar alguns dos anões mais ativos, como Kili, para trocar com os outros as
 era içado para o acampamento superior. Bombur não queria subir nem pela
 corda nem pela trilha.
 
---- Página 194 ---
+--- Página 192 ---
 - Sou gordo demais para esses malabarismos - disse ele.
 - Ficaria zonzo e pisaria em minha própria barba, e então vocês
 seriam treze de novo. As cordas amarradas são finas demais para meu peso. -
@@ -6294,7 +6277,7 @@ abertura, por sobre o penhasco por sobre as amplas terras, até à muralha negra
 da Floresta das Trevas, e as distâncias além, nas quais às vezes tinha a
 impressão de vislumbres das Montanhas Sombrias, pequenas e longínquas.
 
---- Página 195 ---
+--- Página 193 ---
 Quando os anões lhe perguntavam o que estava fazendo, ele respondia:
 - Mas receio que não estivesse pensando muito no trabalho,
 mas sim no que estava além da distância azul, a pacifica Terra Ocidental e a
@@ -6330,7 +6313,7 @@ longínqua. À medida que o sol caminhava para oeste, via -se um brilho amarelo
 por sobre as copas distantes, como se a luz atingisse suas últimas folhas
 pálidas. Logo viu a bola alaranjada do sol descer até o nível de seus olhos.
 
---- Página 196 ---
+--- Página 194 ---
 Caminhou até a abertura e ali, pálida e tênue, uma lua nova esmaecida erguia-se
 por sobre a borda da Terra.
 Naquele exato momento ouviu um estalido agudo atrás de si. Ali,
@@ -6366,7 +6349,7 @@ Então Thorin aproximou-se e tirou do pescoço a corrente que
 prendia a chave. Colocou-a no buraco. Serviu e girou! Snap! O brilho se apagou,
 o sol sumiu, a lua se foi e a noite tomou conta do céu.
 
---- Página 197 ---
+--- Página 195 ---
 Agora todos empurraram juntos e, lentamente, um a parte da
 muralha rochosa cedeu. Fendas longas e retas surgiram e foram se alargando.
 Uma porta de cinco pés de altura e três de largura foi se desenhando e, devagar,
@@ -6375,7 +6358,7 @@ um vapor do buraco na encosta da montanha, e uma escuridão profunda, na qual
 nada se via, abriu-se diante de seus olhos, uma boca escancarada que conduzia
 para dentro e para baixo.
 
---- Página 198 ---
+--- Página 196 ---
 CAPÍTULO XII
 Informação de dentro
  
@@ -6411,7 +6394,7 @@ talvez fizesse um pouco do caminho, pronto para chamar por socorro se
 necessário. O máximo que se pode dizer em favor dos anões é isto: pretendiam
 pagar a
 
---- Página 199 ---
+--- Página 197 ---
 Bilbo uma soma realmente alta por seus serviços; haviam-no
 trazido para fazer um serviço sujo por eles, e não se opunham a que o pobre
 sujeitinho o fizesse, se estivesse disposto; mas todos teriam dado o melhor de si
@@ -6447,7 +6430,7 @@ casa!
 É claro que ele não acordou, e continuou sempre em frente, até
 que qualquer sinal da porta lá atrás desaparecesse por completo. Ele estava
 
---- Página 200 ---
+--- Página 198 ---
 completamente sozinho. Logo teve a impressão de que começava a ficar quente:
 “Será mesmo uma espécie de brilho que vejo vindo lá embaixo?”, pensou ele.
 Era. À medida que seguia em frente, crescia cada vez mais, até
@@ -6483,7 +6466,7 @@ incomensurável, virado parcialmente para um lado, de modo que o hobbit podia
 ver a parte inferior de seu corpo, a barriga c omprida e clara cravejada de pedras
 e fragmentos de ouro, de passar tanto tempo sobre leito tão precioso. Atrás dele,
 
---- Página 201 ---
+--- Página 199 ---
 junto às paredes mais próximas, podiam-se entrever cotas de malha, elmos e
 machados, espadas e lanças penduradas e em fileiras, grandes jarros e vasos
 cheios de uma riqueza incalculável.
@@ -6518,12 +6501,12 @@ lhe davam tapinhas nas costas, colocando-se ao seu dispor, com toda a família,
 por inúmeras gerações vindouras.
  
 
---- Página 202 ---
+--- Página 200 ---
  
 Os anões ainda passavam a taça de mão em mão e conversavam
 deliciados sobre a recuperação de seu tesouro quando, de repente, um enorme
 
---- Página 203 ---
+--- Página 201 ---
 estrondo subiu pela montanha como se um velho vulcão tivesse decidido entrar
 em erupção novamente. A porta atrás deles foi quase arrancada, impedida de
 fechar pela pedra que a calçava, mas, pelo longo túnel. Vinham das profundezas
@@ -6559,7 +6542,7 @@ horripilante de seu vôo e encolheram-se contra as paredes do terraço relvoso,
 escondendo -se debaixo das rochas, esperando de alguma forma escapar dos
 olhos temíveis do dragão caçador.
 
---- Página 204 ---
+--- Página 202 ---
 Ali teriam todos sido mortos, não fosse por Bilbo, mais uma vez.
 - Depressa! Depressa! - disse ele ofegante. - A porta! O túnel! Aqui não
 adianta.
@@ -6595,7 +6578,7 @@ depois sumiu.
 - É o fim de nossos pobres animais! - disse Thorin. O que
 Smaug vê não lhe escapa. Aqui estamos e aqui teremos de ficar, a não ser que
 
---- Página 205 ---
+--- Página 203 ---
 alguém esteja disposto a percorrer desprotegido as longas milhas de volta ao rio
 com Smaug vigiando!
 Não era um pensamento agradável! Desceram mais pelo túnel,
@@ -6638,7 +6621,7 @@ perguntou Bilbo, furioso. - Eu não fui contratado para matar dragões, que é
 trabalho para guerreiros, mas para roubar tesouros. Comecei da melhor maneira
 que pude. Vocês esperavam que eu voltasse com toda a riqueza de Thror nas
 
---- Página 206 ---
+--- Página 204 ---
 costas? Se há alguma reclamação a fazer, acho que eu posso falar. Vocês
 deveriam ter trazido quinhentos ladrões, não um. Tenho certeza de que isso
 reflete a capacidade de seu avô, mas vocês não podem dizer que me informaram
@@ -6674,7 +6657,7 @@ Se soubesse mais sobre dragões e suas manhas, teria sentido mais medo e
 menos esperança de pegar aquele cochilando.
 O sol brilhava quando ele partiu, mas no túnel estava escuro
 
---- Página 207 ---
+--- Página 205 ---
 como noite. A luz da porta, praticamente fechada, logo desapareceu á medida
 que descia. Seu avanço era tão silencioso como o de fumaça carregada pela
 brisa, e o hobbit sentia-se inclinado a orgulhar-se um pouco de si mesmo
@@ -6710,7 +6693,7 @@ impressão de não ter sentido seu cheiro antes. Quem é você e de onde vem, se
 me permite perguntar?
 - Permito, é claro! Eu venho de baixo da colina, e sob as colinas
 
---- Página 208 ---
+--- Página 206 ---
 e sobre as colinas meus caminhos conduziam. E através do ar. Sou o que
 caminha sem ser visto.
 - Posso muito bem acreditar nisso - disse Smaug -. mas esse
@@ -6746,7 +6729,7 @@ Talvez Barril” fosse o nome do seu pônei, ou talvez não, embora ele fosse be
 gordo. Você pode andar sem ser visto, mas não andou todo o caminho.
 Deixe-me dizer que devorei seis pôneis a noite passada, e devo
 
---- Página 209 ---
+--- Página 207 ---
 capturar e devorar todos os outros em breve. Como recompensa pela excelente
 refeição, vou lhe dar um conselho para seu próprio bem: não se envolva com
 anões mais do que puder evitar!
@@ -6782,7 +6765,7 @@ do ouro na encosta da montanha? Qual seria a utilidade na floresta? Céus! Já
 pensou no produto? A décima quarta parte, acho eu, ou algo assim, eram esses
 os termos, não é? Mas e a entrega? E o transporte? E os guardas armados e as
 
---- Página 210 ---
+--- Página 208 ---
 taxas? - Smaug riu alto. Tinha um coração perverso e manhoso, e sabia que
 seus palpites não erravam por muito, embora suspeitasse que os Homens do
 Lago estavam por trás dos planos e que a maior parte do que fosse pilhado iria
@@ -6818,7 +6801,7 @@ Agora sou velho e forte, forte, forte, Ladrão nas Sombras! - disse ele, lambend
 os beiços. - Minha armadura é como dez camadas de escudos, meus dentes são
 espadas, minhas garras, lanças, o choque de minha cauda é como um raio,
 
---- Página 211 ---
+--- Página 209 ---
 minhas asas, como um furacão, e minha respiração é a morte!
 - Eu sempre pensei - disse Bilbo, numa voz fina e apavorada -
 que dragões eram mais macios na parte de baixo, especialmente na região do,
@@ -6858,7 +6841,7 @@ e estes quase o alcançaram; ele foi avançando aos trambolhões, tomado de
 grande dor e medo. Estivera sentindo-se muito satisfeito com a esperteza de sua
 conversa com Smaug, mas o erro final devolveu-lhe a sensatez.
 
---- Página 212 ---
+--- Página 210 ---
 - Nunca se ri de dragões vivos, Bilbo, seu tolo! - disse ele
 consigo mesmo, e esse tornou-se mais tarde um de seus ditados favoritos e
 transformou-se depois num provérbio. - A aventura ainda não terminou -
@@ -6894,7 +6877,7 @@ tenha sobrado ninguém que ainda se preocupe com a língua dos tordos.
 - O que aconteceu? - gritaram os anões. - Continue a história!
 Então Bilbo contou-lhes tudo o que conseguia lembrar, e confessou que estava
 
---- Página 213 ---
+--- Página 211 ---
 com a terrível impressão de que o dragão descobrira muito a partir das
 adivinhas, dos acampamentos e dos pôneis. - Tenho certeza de que ele sabe que
 viemos de Cidade do Lago e tivemos ajuda do povo de lá, e tenho uma terrível
@@ -6930,7 +6913,7 @@ esmagados vai ficar ainda mais satisfeito.
 - Você está pessimista. Sr. Bolseiro! - disse Thorin. - Por que
 Smaug não bloqueou a extremidade inferior, se está tão interessado em impedir
 
---- Página 214 ---
+--- Página 212 ---
 a nossa entrada? Ele não a bloqueou, ou teríamos ouvido.
 - Não sei, não sei. Porque primeiro ele queria tentar me atrair
 de novo para dentro, acho eu, e agora talvez porque esteja esperando o final da
@@ -6966,7 +6949,7 @@ grande rei Bladorthin (morto muito tempo atrás) tinham uma ponta três vezes
 forjada, e suas hastes traziam graciosas incrustações de ouro, mas que nunca
 foram entregues ou pagas: escudos feitos para guerreiros mortos havia muito
 
---- Página 215 ---
+--- Página 213 ---
 tempo; a grande taça de ouro de Thror, com duas alças, martelada e esculpida
 com motivos de pássaros e flores cujos olhos e pétalas eram de pedras
 preciosas; cotas de malha banhadas em ouro e prata, e impenetráveis; a
@@ -7002,7 +6985,7 @@ carvalhos da floresta e impelidos por gigantes. A rocha ribombou, as paredes
 racharam e pedras caíram do teto sobre suas cabeças. O que aconteceria se a
 porta ainda estivesse aberta, eu não gosto nem de pensar. Eles fugiram túnel
 
---- Página 216 ---
+--- Página 214 ---
 abaixo, felizes por ainda estarem vivos, enquanto atrás, lá fora, ouviam o rugido e
 o estrondo da fúria de Smaug. O dragão partia as rochas em pedaços,
 esmagando parede e penhasco com as chicotadas de sua enorme cauda, até que
@@ -7026,7 +7009,7 @@ Eles vão me ver e lembrar quem é o verdadeiro Rei sob a Montanha!
 Ele se ergueu em chamas e foi para o sul, na direção do Rio
 Corrente.
 
---- Página 217 ---
+--- Página 215 ---
 CAPÍTULO XIII
 Fora de casa
  
@@ -7062,7 +7045,7 @@ um passo á frente, colocando-se ao lado de Bilbo.
 - Agora, tenham cautela! - sussurrou o hobbit - E sejam tão
 silenciosos quanto possível! Pode não haver nenhum Smaug lá embaixo, mas
 
---- Página 218 ---
+--- Página 216 ---
 também pode haver. Não vamos correr riscos desnecessários! Foram descendo,
 descendo. Os anões, sem dúvida, não se comparavam ao hobbit em seu caminhar
 furtivo, e, ofegando e arrastando os pés produziam ecos que amplificavam os
@@ -7098,7 +7081,7 @@ embora isso tenha ajudado o hobbit a descobrir onde estavam, demorou bastante
 até conseguir arrancar mais alguma coisa deles. Mas, no fim, quando Bilbo
 começou a bater com os pés no chão e a gritar “luz” com toda a força de sua voz
 
---- Página 219 ---
+--- Página 217 ---
 aguda, Thorin cedeu e mandou Oin e Gloin pegarem as mochilas na outra ponta
 do túnel.
 Depois de um tempo, um brilho trêmulo mostrou que os dois
@@ -7134,7 +7117,7 @@ tocado pelas cores do arco-íris.
 De repente, o braço de Bilbo foi na direção dela, por seu
 encantamento. Não podia envolvê-la em sua pequena mão, pois era uma pedra
 
---- Página 220 ---
+--- Página 218 ---
 grande e pesada, mas ele a ergueu, fechou os olhos e a colocou no bolso mais
 fundo que tinha.
 “Agora sou mesmo um ladrão”, pensou ele. “Mas acho que devo
@@ -7170,7 +7153,7 @@ Venha, algum de vocês, arranje mais uma ou duas luzes! - ordenou Thorin.
 Agora é nossa vez de ajudar - disse Balin - e estou disposto a
 ir.
 
---- Página 221 ---
+--- Página 219 ---
 De qualquer modo, espero que não haja perigo, por enquanto.
 Gloin acendeu várias outras tochas, e então todos saíram, um
 por um, e caminharam junto à parede, tão rapidamente quanto podiam. Não
@@ -7206,7 +7189,7 @@ se armavam com elas. Thorin realmente parecia um rei, vestindo uma cota de
 anéis folheados de ouro, com um machado com cabo d e prata num cinto
 incrustado de pedras escarlates.
 
---- Página 222 ---
+--- Página 220 ---
 - Sr. Bolseiro - gritou ele. - Aqui está o primeiro pagamento de
 sua recompensa! Tire seu casaco velho e vista isto! Dizendo isso vestiu em
 Bilbo uma pequena cota de malha, feita para algum jovem príncipe élfico de
@@ -7242,7 +7225,7 @@ Embora todos os velho s ornamentos estivessem deteriorados e
 destruídos, e embora tudo estivesse imundo e estragado pelas idas e vindas do
 monstro, Thorin conhecia cada corredor e cada curva. Subiram longas escadas,
 
---- Página 223 ---
+--- Página 221 ---
 viraram e passaram por caminhos largos, ecoantes; viraram novamente e
 subiram mais escadas, e depois mais escadas ainda. Estas eram lisas, cortadas
 na pedra viva, largas e belas; e para cima os anões continuaram, sem
@@ -7278,7 +7261,7 @@ seus pés escorregaram nas pedras, lisas e viscosas devido á passagem do
 dragão.
 Agora, diante deles, a água caia ruidosamente para fora e
 
---- Página 224 ---
+--- Página 222 ---
 descia espumando na direção do vale. Jogaram as tochas n o chão e pararam
 para observar com olhos deslumbrados. Haviam atingido o Portão Dianteiro, e
 avistavam Valle.
@@ -7314,7 +7297,7 @@ outras refeições nós não perdemos dentro daquele buraco horrível sem relóg
 sem tempo!
 Na verdade, duas noites e o dia entre elas haviam se passado (e
 
---- Página 225 ---
+--- Página 223 ---
 não totalmente sem comida) desde que o dragão esmagara a porta mágica, mas
 Bilbo perdera a noção do tempo e, por ele, podia ter sido uma noite ou uma
 semana de noites.
@@ -7350,7 +7333,7 @@ e com certeza não tem graça nenhuma, sendo, na verdade, muito
 desinteressante, exceto como exercício de mastigação. Era feito pelos Homens
 do Lago para longas viagens.)
 
---- Página 226 ---
+--- Página 224 ---
 Depois disso, prosseguiram outra vez; agora a estrada rumava
 para o oeste, abandonava o rio, e a grande saliência do contraforte sul da
 Montanha aproximava-se cada vez mais. Por fim, alcançaram a trilha do morro. A
@@ -7386,10 +7369,10 @@ olhavam para leste e nada viam e, ao sul, não se via nenhum sinal do dragão, m
 um ajuntamento de muitos pássaros. Ficaram olhando, perplexos; mas não
 estavam mais próximos de compreender o que estava acontecendo quando
 
---- Página 227 ---
+--- Página 225 ---
 surgiram as primeiras estrelas frias.
 
---- Página 228 ---
+--- Página 226 ---
 CAPÍTULO XIV
 Fogo e água
  
@@ -7425,7 +7408,7 @@ e a extremidade norte do lago ficou dourada. - O Rei sob a Montanha! - gritaram
 eles. - Sua riqueza é como o Sol. Sua prata, como uma fonte, seus rios de ouro
 são! O rio vem correndo dourado da Montanha! - exclamaram eles, e em todo o
 
---- Página 229 ---
+--- Página 227 ---
 lugar janelas se abriam e pés se apressavam.
 Mais uma vez houve tremendo alvoroço e entusiasmo. Mas o
 sujeito de voz sinistra foi correndo ter com o Senhor.
@@ -7461,7 +7444,7 @@ muitas eras; nem se atreveriam agora. Não fosse pelo homem de voz sinistra
 e instigando o Senhor a ordenar que lutassem até a última flecha.
 O fogo saltava das mandíbulas do dragão. Durante algum tempo
 
---- Página 230 ---
+--- Página 228 ---
 ele voou em círculos acima deles, iluminando todo o lago: as árvores n as
 margens brilhavam como cobre e sangue, com sombras agitadas de um negro
 profundo aos seus pés. Desceu então num vôo rasante, atravessando a chuva de
@@ -7497,7 +7480,7 @@ distante de Girion, Senhor de Valle, cuja esposa e filho haviam escapado da ruí
 descendo o Rio Corrente num passado distante. Agora ele atirava com um
 grande arco de teixo, até que lhe restou uma única flecha. As chamas estavam
 
---- Página 231 ---
+--- Página 229 ---
 perto dele. Os seus companheiros o abandonavam. Ele envergou o arco pela
 última vez.
 De repente, vindo da escuridão, algo voejou sobre seus ombros.
@@ -7533,7 +7516,7 @@ e frio. Retorcia a névoa branca, transformando-a em colunas encurvadas e
 nuvens apressadas, e a conduzia para oeste, espalhando-a em fiapos sobre os
 pântanos diante da Floresta das Trevas. Viram-se então os vários barcos, pontos
 
---- Página 232 ---
+--- Página 230 ---
 escuros na superfície d o lago, e no vento vinham as vozes do povo de Esgaroth
 lamentando sua cidade, seus bens perdidos e casas arruinadas. Mas, na
 verdade, tinham muito pelo que agradecer, se pensassem bem, embora não
@@ -7569,7 +7552,7 @@ permanecerão aqui, mantendo a esperança de reconstruir nossa cidade, para
 ainda usufruir mais uma vez de sua paz e riqueza.
 - Queremos o Rei Bard! - gritaram em resposta as pessoas
 
---- Página 233 ---
+--- Página 231 ---
 que estavam perto. - Já estamos fartos dos velhos e dos contadores de dinheiro!
 - E as pessoas que estavam mais longe juntaram-se ao coro: - Queremos o
 Arqueiro, abaixo o Avarento. - até o clamor ecoar ao longo da margem.
@@ -7605,7 +7588,7 @@ seguir.
 Então avançou em largos passos para ajudar na organização
 dos acampamentos e no cuidado dos doentes e feridos. Mas o Senhor, pelas
 
---- Página 234 ---
+--- Página 232 ---
 costas, fechou o semblante enquanto ele se afastava, e permaneceu sent ado no
 chão. Pensava muito, mas dizia pouco, a não ser para pedir em voz alta que
 alguém lhe trouxessem fogo e comida.
@@ -7641,7 +7624,7 @@ pinheirais das Montanhas Sombrias; Beorn a recebera em sua casa de madeira,
 e os orcs estavam em conselho em suas cavernas.
 - Esta será a última vez que ouvimos falar de Thorin Escudo de
 
---- Página 235 ---
+--- Página 233 ---
 Carvalho, receio eu - disse o rei. - Teria feito melhor se permanecesse como
 meu hóspede. De qualquer forma - acrescentou ele -, a desgraça de uns é a
 sorte de outros. - Pois ele também não se havia esquecido da lenda da riqueza
@@ -7677,14 +7660,14 @@ arruinadas da velha cidade. Mas poucos ousavam atravessar o ponto
 amaldiçoado, e ninguém atrevia-se a mergulhar na água gelada ou resgatar as
 pedras preciosas que caíam de sua carcaça putrefata.
 
---- Página 236 ---
+--- Página 234 ---
 Mas todos os combatentes que ainda eram capazes e a maioria
 do grupo do Rei Élfíco aprontavam-se para marchar para o norte, na direção da
 Montanha. Foi assim que, onze dias depois da ruína da cidade, o líder de seu
 exército passou pelos portões de pedra, na extremidade do lago, e entrou nas
 terras desoladas.
 
---- Página 237 ---
+--- Página 235 ---
 CAPÍTULO XV
 Tempestade à vista
  
@@ -7720,7 +7703,7 @@ Mas os corvos são diferentes. Havia grande amizade entre eles
 e o povo de Thror; sempre nos traziam noticias secretas, e recebiam como
 recompensa objetos brilhantes que cobiçavam para esconder em seus ninhos.
 
---- Página 238 ---
+--- Página 236 ---
 - Vivem muitos anos, têm uma memória boa e transmitem sua
 sabedoria aos filhos. Eu conhecia muitos corvos das rochas quando era menino.
 Este pico já foi chamado Morro do Corvo, porque havia um casal sábio e famoso,
@@ -7756,7 +7739,7 @@ contra os homens de Esgaroth três noites atrá s, quando a lua subia ao céu.
 Demorou um pouco para Thorin conseguir que os anões
 fizessem silêncio e escutassem as notícias do corvo. Por fim, quando tinha
 
---- Página 239 ---
+--- Página 237 ---
 contado toda a história da batalha, ele continuou: - Estes são os motivos de
 alegria, Thorin Escudo de Carvalho. Pode voltar para seus salões em
 segurança: todo o tesouro é seu, por enquanto.
@@ -7792,7 +7775,7 @@ mas farei o que estiver ao meu alcance. - Então partiu voando lentamente.
 tempo a perder.
 - E pouca comida para comer! Gritou Bilbo, sempre muito
 
---- Página 240 ---
+--- Página 238 ---
 prático nesses assuntos. De qualquer modo, achava que a aventura,
 propriamente falando, terminara com a morte do dragão, no que estava muito
 enganado, e teria dado quase toda a sua parte nos lucros pela resolução pacifica
@@ -7828,7 +7811,7 @@ olhar (ou atirar), mas nenhuma entrada. Eles entravam e saiam por meio de
 escadas, e içavam as coisas com cordas. Para a passagem haviam preparado
 um pequeno arco baixo sob a nova parede; mas, perto da entrada, tinham alterado
 
---- Página 241 ---
+--- Página 239 ---
 tanto o leito estreito que um amplo lago se estendia da encosta da montanha até
 o topo da cachoeira pela qual o rio corria na direção de Valle. Chegar até o
 Portão agora só era possível, a não ser a nado, ao longo de uma saliência
@@ -7864,7 +7847,7 @@ como se o ar ficasse mais quente, e sentiam a tênue fragrância das flores da
 mata desabrochando na primavera.
 Então Bilbo desejou escapar da fortaleza escura, descer e
 
---- Página 242 ---
+--- Página 240 ---
 juntar-se à alegria e aos banquetes junto às fogueiras. Alguns dos anões mais
 jovens também foram tocados em seus corações e murmuravam que as coisas
 deveriam ter acontecido de forma diferente, desejando que pudessem dar boas-
@@ -7900,7 +7883,7 @@ Eis ao Portão o rei de plantão,
 Suas mãos cheias de gemas e ouro.
 Sob a Montanha alta e sombria
 
---- Página 243 ---
+--- Página 241 ---
 De novo o rei em seu trono está!
 Morto o inimigo, o Dragão do Perigo,
 E sempre assim o mal tombará.
@@ -7936,7 +7919,7 @@ vocês até agora s ó trouxeram destruição, embora, sem dúvida, esse não fo
 seu objetivo.
 Aquelas palavras eram justas e verdadeiras, mesmo sendo
 
---- Página 244 ---
+--- Página 242 ---
 proferidas com orgulho e rispidez, e Bilbo achou que Thorín admitiria
 imediatamente a justiça contida nelas. Não esperava, é claro, que alguém se
 lembrasse de que fora ele quem havia descoberto sozinho o ponto fraco do
@@ -7972,7 +7955,7 @@ necessidade, embora o povo não pudesse reclamar-lhe nada além da amizade -
 respondeu Bard. - Dar-lhe-emos tempo para que se arrependa de suas palavras.
 Use de sua sabedoria antes que voltemos! - Eles então partiram e voltaram para
 
---- Página 245 ---
+--- Página 243 ---
 o acampamento.
 Antes que muitas horas se passassem, os porta-bandeiras
 voltaram, e os corneteiros deram um passo à frente e tocaram:
@@ -8001,7 +7984,7 @@ farto da Montanha e ficar sitiado dentro dela não o agradava nem um pouco.
 mesmo -, e me dá engulhos. E Cram simplesmente já não me desce goela
 abaixo.
 
---- Página 246 ---
+--- Página 244 ---
 CAPÍTULO XVI
 Um ladrão na noite
  
@@ -8037,7 +8020,7 @@ Naquela noite Bilbo tomou uma decisão. O céu estava negro e
 sem lua. Logo que escureceu por completo, foi para o canto de uma câmara
 interna junto ao Portão e tirou de seu fardo uma corda, além da Pedra Arken
 
---- Página 247 ---
+--- Página 245 ---
 embrulhada num trapo. Depois escalou a muralha. Apenas Bombur estava lá,
 pois era a sua vez de vigiar, e os anões mantinham apenas um vigia por vez.
 - Está um frio terrível! - disse Bombur. - Queria poder acender
@@ -8073,7 +8056,7 @@ quisesse ir até o acampamento, como era o seu desejo. Naquele trecho o rio era
 raso, mas já largo, e atravessá-lo à pé, no escuro, não foi fácil para o pequeno
 hobbit. Já tinha quase chegado ao outro lado quando escorregou numa pedra
 
---- Página 248 ---
+--- Página 246 ---
 redonda e caiu na água gelada. Mal tinha se arrastado até a outra margem,
 tremendo e bufando, quando surgiram na escuridão elfos com lamparinas, em
 busca do motivo do barulho.
@@ -8109,7 +8092,7 @@ cobertor velho, era um espetáculo novo para eles.
 comercial -, as coisas estão impossíveis. Pessoalmente, estou cansado da coisa
 toda. Gostaria de poder voltar para o oeste, para minha própria casa, onde as
 
---- Página 249 ---
+--- Página 247 ---
 pessoas são mais honestas. Mas tenho um interesse neste assunto -, um
 quatorze avos do tesouro, para ser preciso, de acordo com uma carta que,
 felizmente, acredíto ter guardado. - Ele retirou do bolso de seu velho casaco que
@@ -8145,7 +8128,7 @@ problemas para todos. Agora, farei uma oferta!
 - Vamos ouvi-la! - disseram eles.
 - Vocês podem vê-la! - disse ele. - É isto! - e exibiu a Pedra
 
---- Página 250 ---
+--- Página 248 ---
 Arken, jogando fora os trapos que a embalavam.
 O próprio Rei Élfico, cujos olhos estavam acostumados a coisas
 belas e maravilhosas, levantou-se estupefato. Até Bard a contemplava,
@@ -8181,7 +8164,7 @@ levantou-se da porta de uma tenda onde estava sentado e foi na direção deles.
 - Muito bem! Sr. Bolseiro! - disse ele, batendo nas costas de
 Bilbo. - Você sempre demonstra ser mais do que se espera! - Era Gandalf.
 
---- Página 251 ---
+--- Página 249 ---
 Pela primeira vez em muitos dias Bilbo sentiu-se realmente
 feliz.
 Mas não havia tempo para todas as perguntas que
@@ -8202,7 +8185,7 @@ pouco merecedor). Logo estava ferrado no sono, esquecendo todas as
 preocupações até a manhã seguinte. Na verdade, estava sonhando com toucinho
 com ovos.
 
---- Página 252 ---
+--- Página 250 ---
 CAPÍTULO XVII
 Explode a tempestade
  
@@ -8238,7 +8221,7 @@ pela ira. - Essa pedra foi de meu pai, e é minha - disse ele. - Por que eu deve
 comprar o que é meu? - Mas a surpresa dominava-o e ele acrescentou: - Mas
 como vocês encontraram a herança de minha casa, se é que há necessidade de
 
---- Página 253 ---
+--- Página 251 ---
 fazer tal pergunta a ladrões?
 - Não somos ladrões - respondeu Bard. - Dar-lhe-emos o que é
 seu em troca do que é nosso.
@@ -8274,7 +8257,7 @@ muralha. - Fui traído - disse ele.
 de resgatar a Pedra Arken, o tesouro de minha casa. Por ela darei um quatorze
 avos do tesouro em ouro e prata, deixando de lado as pedras; mas essa será
 
---- Página 254 ---
+--- Página 252 ---
 considerada a parte prometida a este traidor, e com essa recompensa ele partirá,
 e vocês podem dividi -la como bem entenderem. Ele ficará com bem pouco, não
 duvido. Levem-no, se quiserem que ele viva; e minha amizade não o acompanha.
@@ -8310,7 +8293,7 @@ ouviu um grito no acampamento. Batedores vinham avisar que um exército de
 anões surgira pelo contraforte leste da Montanha e agora apressava-se na
 direção de Valle. Dain havia chegado. Avançara durante a noite e, assim,
 
---- Página 255 ---
+--- Página 253 ---
 encontrava-os antes do esperado. Cada um de seu povo vestia uma longa cota de
 malha de aço que descia até a altura dos joelhos e tinha as pernas cobertas com
 calções de uma malha metálica fina e flexível, cuja feitura era um segredo
@@ -8346,7 +8329,7 @@ chegar , e depois mais ainda, pois Thorin tinha muitos parentes. Além disso,
 também poderiam reabrir e guardar algum outro portão, de modo que os
 sitiadores teriam de cercar toda a montanha, e não estavam em número suficiente
 
---- Página 256 ---
+--- Página 254 ---
 para isso.
 Estes, na verdade, eram precisamente os seus planos (pois os
 corvos-mensageiros haviam trabalhado muito entre Thorin e Dain), mas, por
@@ -8382,7 +8365,7 @@ mas não vinha com o vento, vinha do norte, como uma vasta nuvem de pássaros,
 tão densa que não se via nenhuma luz entre suas asas.
 - Parem! - gritou Gandalf, que apareceu de repente, sozinho,
 
---- Página 257 ---
+--- Página 255 ---
 com os braços erguidos, entre os anões que avançavam e as tropas à sua
 espera. - Parem! - gritou ele numa voz como o trovão, e seu cajado reluziu como
 um relâmpago. - O terror caiu sobre todos vocês! Ai de nós! Veio mais depressa
@@ -8418,7 +8401,7 @@ aquele ataque repentino.
 Este é o plano que ele fez, reunido com o Rei Élfico e Bard,
 além de Dain. Pois o senhor dos anões agora se juntara a eles: os Orcs eram
 
---- Página 258 ---
+--- Página 256 ---
 inimigos de todos e, com a sua chegada, todas as outras desavenças foram
 esquecidas. Sua única esperança era atrair os orcs para dentro do vale, entre os
 braços da Montanha; e eles mesmos deveriam guarnecer com homens os
@@ -8454,7 +8437,7 @@ Na verdade, posso dizer que ele colocou o anel no inicio de tudo e desapareceu
 de vista, se bem que não de todo o perigo.
 Um anel mágico daquele tipo não é proteção completa num ata
 
---- Página 259 ---
+--- Página 257 ---
 que orc, nem evita flechas e lanças; mas ajuda a sair do caminho e evita que a
 sua cabeça seja especialmente escolhida para um golpe avassalador de um
 espadachim orc.
@@ -8490,7 +8473,7 @@ tamanho com cimitarras de aço. Logo, uma escuridão verdadeira cobria o céu
 tempestuoso, enquanto os grandes morcegos ainda rodopiavam ao redor das
 cabeças e orelhas de homens e elfos ou grudavam como vampiros nos caídos.
 
---- Página 260 ---
+--- Página 258 ---
 Agora Bard lutava para defender o contraforte leste e, contudo, recuava aos
 poucos; os senhores élficos estavam encurralados junto ao seu rei no braço sul,
 perto da guarita no Morro do Corvo.
@@ -8526,7 +8509,7 @@ Bolg arremeteu contra eles, uivando, e avançou sobre suas fileiras como ondas
 sobre morros de areia. Seus amigos não podiam ajudá-los, pois o ataque da
 Montanha recomeçou com força redobrada, e, dos dois lados, homens e elfos
 
---- Página 261 ---
+--- Página 259 ---
 aos poucos estavam sendo derrubados.
 Tudo isso Bilbo contemplava com tristeza. Ele se posicionara no
 Morro do Corvo com os Elfos - em parte, porque havia mais chance de escapar
@@ -8561,7 +8544,7 @@ pudesse ver nada, exceto das saliências ao sul da Montanha.
 momento, uma pedra veio rolando de cima, bateu com toda a força em seu elmo;
 ele caiu com estrondo e perdeu os sentidos.
 
---- Página 262 ---
+--- Página 260 ---
 CAPÍTULO XVIII
 A viagem de volta
  
@@ -8597,7 +8580,7 @@ retirando apressadamente o anel.
 passos largos. - Precisam de você e já o procuramos bastante. Teria sido
 contado entre os mortos, que são muitos, se Gandalf não dissesse que sua voz
 
---- Página 263 ---
+--- Página 261 ---
 foi ouvida pela última vez neste lugar. Fui enviado para procurar aqui pela última
 vez. Está muito machucado?
 - Um golpe na cabeça, acho eu - disse Bilbo. - Mas tenho um
@@ -8633,7 +8616,7 @@ misturadas na medida certa. Se mais de nós dessem mais valor a comida, bebida
 e música do que a tesouros, o mundo seria mais alegre. Mas, triste ou alegre,
 agora devo partir. Adeus!
 
---- Página 264 ---
+--- Página 262 ---
 Bilbo voltou-se, saiu e sentou-se embrulhado num cobertor; e,
 acreditem ou não, chorou até ficar com os olhos vermelhos e a voz rouca.
 Era uma pequena e boa alma. Na verdade, demorou muito até
@@ -8669,7 +8652,7 @@ resistiam, protegendo seus senhores numa pequena colina arredondada.
 Então Beorn abaixou-se e ergueu Thorin, que caíra atravessado
 por lanças, e levou-o para longe do combate.
 
---- Página 265 ---
+--- Página 263 ---
 Voltou depressa, e com ira redobrada, de modo que nada podia
 detê-lo, e nenhuma arma parecia feri-lo. Dispersou a guarda pessoal e derrubo u
 e esmagou o próprio Bolg. Então o medo dominou os orcs, e eles fugiram em
@@ -8705,7 +8688,7 @@ morar no futuro.
 Sobre seu túmulo o Rei Élfico depositou então Orcrist, a espada
 élfica que fora tomada de Thorin no cativeiro. Contam as canções que ela
 
---- Página 266 ---
+--- Página 264 ---
 brilhava na escuridão quando inimigos se aproximavam, e a fortaleza dos anões
 não podia ser pega de surpresa. Ali, então, Dain, filho de Nain, passou a morar,
 tornando-se Rei sob a Montanha, e, com o tempo, muitos outros anões juntaram-
@@ -8741,7 +8724,7 @@ Por fim, chegou a hora de dizer adeus aos amigos. - Adeus,
 Balin! - disse ele. - E adeus, Dwalin, e adeus, Dori, Nori, Ori, Oin, Gloin, Bifur,
 Bofur e Bombur! Que suas barbas nunca fiquem ralas! - E, virando- se para a
 
---- Página 267 ---
+--- Página 265 ---
 Montanha, acrescentou:
 - Adeus, Thorin Escudo de Carvalho, e Fili e Kili! Que a
 lembrança de vocês nunca desapareça!
@@ -8777,7 +8760,7 @@ seu povo!
 quando for mais necessário e menos esperado! Quanto mais vezes aparecer em
 meus salões, mais ficarei satisfeito!
 
---- Página 268 ---
+--- Página 266 ---
 - Peço-lhe - disse Bilbo, gaguejando e sem muita coragem -
 que aceite este presente! - e mostrou uma cota de malha de prata e pérolas que
 Dain lhe dera ao se despedirem.
@@ -8813,7 +8796,7 @@ orcs foram expulsos das Montanhas Sombrias e uma nova paz reinou na borda
 do Ermo.
 Era primavera, uma bela primavera com tempo ameno e sol
 
---- Página 269 ---
+--- Página 267 ---
 claro, quando Bilbo e Gandalf finalmente despediram-se de Beorn e, embora
 sentisse saudades de casa, Bilbo lamentou ter de partir, pois as flores dos
 jardins de Beorn não eram menos maravilhosas na primavera que no auge do
@@ -8830,7 +8813,7 @@ chegam ao fim! - disse Bilbo, dando as costas à sua aventura. A parte Túk esta
 ficando muito cansada, e a parte Bolseiro ficava a cada dia mais forte. - Agora só
 queria estar em minha própria poltrona! - disse ele.
 
---- Página 270 ---
+--- Página 268 ---
 CAPÍTULO XIX
 A última etapa
  
@@ -8866,7 +8849,7 @@ Do que o ouro lavrado,
 Então por que vagar?
 Oh! Tra-la-la-láli!
 
---- Página 271 ---
+--- Página 269 ---
 Volte para o vale!
 Ei, onde você vai,
 Tão tarde regressando?
@@ -8902,7 +8885,7 @@ venha a acontecer nesta era do mundo, ou em muitas eras seguintes.
 Terminada a história de suas viagens, contaram-se outras
 histórias, e ainda outras histórias, histórias de antigamente, e histórias de coisas
 
---- Página 272 ---
+--- Página 270 ---
 novas, e histórias fora do tempo, até que a cabeça de Bilbo caiu para a frente, e
 ele ficou roncando confortavelmente num canto.
 Ao acordar viu-se numa cama branca, e a lua brilhava através de
@@ -8938,7 +8921,7 @@ disse ele -, mas cura o mais que puder. Um segundo boa-noite, belos amigos! -
 E, dizendo isso, voltou para a cama e dormiu até o final da manhã.
 O cansaço logo o abandonou naquela casa, e ele dançou e
 
---- Página 273 ---
+--- Página 271 ---
 divertiu - se, de manhã e de noit e, com os elfos do vale. Mas, agora, mesmo
 aquele lugar não poderia detê-lo por muito tempo e ele sempre pensava em sua
 casa. Depois de uma semana, portanto, disse adeus a Elrond e, deixando - lhe
@@ -8974,7 +8957,7 @@ caminhavam a maior parte do tempo. Mas a terra estava verde e havia muita
 grama pela qual o hobbit caminhava alegremente. Limpava o rosto com um lenço
 de seda vermelho - não, nenhum dos seus sobrevivera, e ele havia tomado aquele
 
---- Página 274 ---
+--- Página 272 ---
 emprestado de Elrond - pois junho trouxera o verão, e o tempo estava claro e
 quente outra vez.
 Como todas as coisas chegam a um fim, até mesmo esta
@@ -9010,7 +8993,7 @@ amontoavam-se diante da porta, e muitos entravam e saiam - sem, nem ao menos,
 limpar os pés no capacho, como notou Bilbo irritado.
 Se ele ficou surpreso, eles ficaram ainda mais. Tinha chegado
 
---- Página 275 ---
+--- Página 273 ---
 no meio de um leilão. Havia um grande aviso em preto e vermelho pendurado no
 portão, dizendo que, no dia vinte e dois de junho, os senhores Fossador,
 Fossador e Covas venderiam em leilão os pertences do falecido e ilustríssimo
@@ -9046,7 +9029,7 @@ nos dias pacatos antes da Festa Inesperada. A espada, ele pendurou sobre a
 lareira. A cota de malha foi colocada num mancebo no corredor (até que a
 emprestou a um Museu) . Boa parte do ouro e da prata foram gastos em
 
---- Página 276 ---
+--- Página 274 ---
 presentes, tanto úteis como extravagantes - o que, ate certo ponto, explica a
 afeição de seus sobrinhos e sobrinhas. O anel mágico ele guardou em grande
 segredo, 
@@ -9082,7 +9065,7 @@ descia o Rio Corrente; e naquelas partes havia amizade entre elfos, anões e
 homens.
  
 
---- Página 277 ---
+--- Página 275 ---
  
 O velho Senhor tivera um final triste. Bard dera-lhe muito ouro
 para socorrer o povo do Lago, mas, sendo o tipo de pessoa que pega facilmente
@@ -9101,13 +9084,13 @@ Você é uma ótima pessoa, Sr. Bolseiro, e gosto muito de você; mas, afinal de
 contas, você é apenas uma pessoazinha neste mundo enorme!
 - Ainda bem! - disse Bilbo, rindo, e ofereceu-lhe a vasilha de
 
---- Página 278 ---
+--- Página 276 ---
 fumo.
  
  
 FIM
 
---- Página 279 ---
+--- Página 277 ---
 Sumário
 Uma festa inesperada
 9
@@ -9129,7 +9112,7 @@ Moscas e aranhas
 Barris soltos
 162
 
---- Página 280 ---
+--- Página 278 ---
 Uma acolhida calorosa 178
 Na soleira da porta
 189
